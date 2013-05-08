@@ -14,7 +14,7 @@ Why do it?
 
 Well, because of this_ article, which were intriguing, but offered no data so that ordinary people could download the data and do stuff with it. And I figured, what the heck, right? I had ``wget``, I had ``emacs``, I knew how to use regular expressions, and I really wanted to learn what it would take to make well-formatted JSON. So there you have it.
 
-.. _this: www.themalaysianinsider.com/litee/sideviews/article/a-first-pass-at-the-ge13-results-thomas-pepinsky/
+.. _this: http://www.themalaysianinsider.com/litee/sideviews/article/a-first-pass-at-the-ge13-results-thomas-pepinsky/
 
 Plus, I find digging into reams and reams of text to extract data and trying to get it to fit into JSON... soothing. Well, okay, at least more soothing than listening to the fucking news. I mean, really, guys? Sigh.
 
@@ -42,7 +42,7 @@ Oh. Sorry. >_>;;
 So how, exactly, do I use this data?
 ====================================
 
-Um, I guess you could ``load the data into R``__ or something. I really didn't give it a thought. 
+Um, I guess you could `load the data into R`__ or something. I really didn't give it a thought. 
 
 __ http://stackoverflow.com/questions/2617600/importing-data-from-a-json-file-into-r
 
@@ -53,11 +53,11 @@ Please feel free to prove me wrong.
 Okay, your data's got an error in it. What now?
 ===============================================
 
-Hey, ``let me know``__! Log an issue in github, specify which part of the information is incorrect, or inconsistent. I've also provided me the raw HTML from the EC's website files that I used, as well as the URLs that I grabbed those files from as a reference, if you want it. Well, I *want* it, in case I need to backtrack and figure out what's wrong with the sources.
+Hey, `let me know`__! Log an issue in github, specify which part of the information is incorrect, or inconsistent. I've also provided me the raw HTML from the EC's website files that I used, as well as the URLs that I grabbed those files from as a reference, if you want it. Well, I *want* it, in case I need to backtrack and figure out what's wrong with the sources.
 
 __ https://github.com/tariqk/maklumat-PRU13/issues
 
-Or, even better, if you've made some changes to the data (say, by adding more information, fixing reams and *reams* of stupid errors I possibly made), then feel free to submit a pull request and help me get it fixed. Please note that I'm still new to this whole git and github thing, though, also, I am kind of busy and might not have the time to attend to these issues promptly. I will try, though!
+Or, even better, if you've made some changes to the data (say, by adding more information, fixing reams and *reams* of stupid errors I possibly made, running through everything to ensure that the data is consistent), then feel free to submit a pull request and help me get it fixed. Please note that I'm still new to this whole git and github thing, though, also, I am kind of busy and might not have the time to attend to these issues promptly. I will try, though!
 
 I have more questions I want to ask!
 ====================================
