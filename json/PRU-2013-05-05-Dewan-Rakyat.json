@@ -1,0 +1,5911 @@
+[
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.001 - PADANG BESAR", 
+        "CALON": [
+            {
+                "NAMA": "ZAHIDI BIN ZAINUL ABIDIN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21473
+            }, 
+            {
+                "NAMA": "AZAMHARI BIN MOHAMOOD", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 14047
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 36051, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 36142, 
+        "JUMLAH KERTAS UNDI DITOLAK": 531, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 91, 
+        "JUMLAH PEMILIH BERDAFTAR": 41974, 
+        "MAJORITI": 7426, 
+        "NEGERI": "PERLIS", 
+        "PERATUS PENGUNDIAN": 86.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.002 - KANGAR", 
+        "CALON": [
+            {
+                "NAMA": "BAHARUDDIN BIN AHMAD ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 19306
+            }, 
+            {
+                "NAMA": "SHAHARUDDIN BIN ISMAIL", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 23343
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 43309, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 43431, 
+        "JUMLAH KERTAS UNDI DITOLAK": 660, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 122, 
+        "JUMLAH PEMILIH BERDAFTAR": 51207, 
+        "MAJORITI": 4037, 
+        "NEGERI": "PERLIS", 
+        "PERATUS PENGUNDIAN": 84.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.003 - ARAU", 
+        "CALON": [
+            {
+                "NAMA": "SHAHIDAN BIN KASSIM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 19376
+            }, 
+            {
+                "NAMA": "HARON BIN DIN ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 18005
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ZAINUDIN BIN YOM ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 406
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 38312, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 38439, 
+        "JUMLAH KERTAS UNDI DITOLAK": 525, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 127, 
+        "JUMLAH PEMILIH BERDAFTAR": 43876, 
+        "MAJORITI": 1371, 
+        "NEGERI": "PERLIS", 
+        "PERATUS PENGUNDIAN": 87.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.004 - LANGKAWI", 
+        "CALON": [
+            {
+                "NAMA": "NAWAWI BIN AHMAD", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21407
+            }, 
+            {
+                "NAMA": "AHMAD BIN ABDULLAH ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 9546
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MARINA BINTI HUSSEIN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 180
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 31877, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 32096, 
+        "JUMLAH KERTAS UNDI DITOLAK": 744, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 219, 
+        "JUMLAH PEMILIH BERDAFTAR": 37536, 
+        "MAJORITI": 11861, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 85.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.005 - JERLUN", 
+        "CALON": [
+            {
+                "NAMA": "ISMAIL BIN SALLEH ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 20891
+            }, 
+            {
+                "NAMA": "OTHMAN BIN AZIZ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 24161
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 45782, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 45905, 
+        "JUMLAH KERTAS UNDI DITOLAK": 730, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 123, 
+        "JUMLAH PEMILIH BERDAFTAR": 52383, 
+        "MAJORITI": 3270, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 87.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.006 - KUBANG PASU", 
+        "CALON": [
+            {
+                "NAMA": "MOHD JAMAL BIN NASIR ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 22890
+            }, 
+            {
+                "NAMA": "MOHD JOHARI BIN BAHARUM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 33334
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 57058, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 57297, 
+        "JUMLAH KERTAS UNDI DITOLAK": 834, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 239, 
+        "JUMLAH PEMILIH BERDAFTAR": 65550, 
+        "MAJORITI": 10444, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 87.4
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.007 - PADANG TERAP", 
+        "CALON": [
+            {
+                "NAMA": "MOHD NASIR BIN ZAKARIA ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 16212
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MUHAMAD BAZLI BIN ABDULLAH ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 243
+            }, 
+            {
+                "NAMA": "MAHDZIR BIN KHALID", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 20654
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 37800, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 37903, 
+        "JUMLAH KERTAS UNDI DITOLAK": 691, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 103, 
+        "JUMLAH PEMILIH BERDAFTAR": 41960, 
+        "MAJORITI": 4442, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 90.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.008 - POKOK SENA", 
+        "CALON": [
+            {
+                "NAMA": "DATO' MAHFUZ BIN OMAR", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 36198
+            }, 
+            {
+                "NAMA": "SHAHLAN BIN ISMAIL ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 32263
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 69309, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 69519, 
+        "JUMLAH KERTAS UNDI DITOLAK": 848, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 210, 
+        "JUMLAH PEMILIH BERDAFTAR": 80714, 
+        "MAJORITI": 3935, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 86.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.009 - ALOR STAR", 
+        "CALON": [
+            {
+                "NAMA": "CHOR CHEE HEUNG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25491
+            }, 
+            {
+                "NAMA": "GOOI HSIAO - LEUNG", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 27364
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ABDUL FISOL BIN MOHD ISA ", 
+                "PARTI": "BERJASA", 
+                "UNDI DITERIMA": 3530
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "JAWAHAR RAJA BIN ABDUL WAHID", 
+                "PARTI": "BERSAMA", 
+                "UNDI DITERIMA": 257
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 57712, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 57912, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1070, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 200, 
+        "JUMLAH PEMILIH BERDAFTAR": 69009, 
+        "MAJORITI": 1873, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 83.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.010 - KUALA KEDAH", 
+        "CALON": [
+            {
+                "NAMA": "AZMAN BIN ISMAIL", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 42870
+            }, 
+            {
+                "NAMA": "ZAKI ZAMANI BIN ABD RASHID ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 37923
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 82005, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 82251, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1212, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 246, 
+        "JUMLAH PEMILIH BERDAFTAR": 95328, 
+        "MAJORITI": 4947, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 86.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.011 - PENDANG", 
+        "CALON": [
+            {
+                "NAMA": "OTHMAN BIN ABDUL", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 32165
+            }, 
+            {
+                "NAMA": "MOHAMAD BIN SABU ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 29527
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 62451, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 62649, 
+        "JUMLAH KERTAS UNDI DITOLAK": 759, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 198, 
+        "JUMLAH PEMILIH BERDAFTAR": 70135, 
+        "MAJORITI": 2638, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 89.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.012 - JERAI", 
+        "CALON": [
+            {
+                "NAMA": "JAMIL KHIR BIN BAHAROM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 32429
+            }, 
+            {
+                "NAMA": "MOHD FIRDAUS BIN JAAFAR ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 31233
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 64614, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 64778, 
+        "JUMLAH KERTAS UNDI DITOLAK": 952, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 164, 
+        "JUMLAH PEMILIH BERDAFTAR": 74410, 
+        "MAJORITI": 1196, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 87.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.013 - SIK", 
+        "CALON": [
+            {
+                "NAMA": "MANSOR BIN ABD RAHMAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 22084
+            }, 
+            {
+                "NAMA": "CHE UDA BIN CHE NIK ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 19277
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 41992, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 42108, 
+        "JUMLAH KERTAS UNDI DITOLAK": 631, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 116, 
+        "JUMLAH PEMILIH BERDAFTAR": 46786, 
+        "MAJORITI": 2807, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 90.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.014 - MERBOK", 
+        "CALON": [
+            {
+                "NAMA": "ISMAIL BIN DAUT", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 38538
+            }, 
+            {
+                "NAMA": "NOR AZRINA BINTI SURIP ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 34416
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 74283, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 74520, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1329, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 237, 
+        "JUMLAH PEMILIH BERDAFTAR": 85908, 
+        "MAJORITI": 4122, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 86.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.015 - SUNGAI PETANI", 
+        "CALON": [
+            {
+                "NAMA": "SYAMSYUL ANUAR BIN CHE MEY @ ISMAIL ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 34646
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ONG WEI SIN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 772
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SUHAIMI BIN HASHIM", 
+                "PARTI": "KITA", 
+                "UNDI DITERIMA": 200
+            }, 
+            {
+                "NAMA": "JOHARI BIN ABDUL", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 44194
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 80771, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 81019, 
+        "JUMLAH KERTAS UNDI DITOLAK": 959, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 248, 
+        "JUMLAH PEMILIH BERDAFTAR": 93176, 
+        "MAJORITI": 9548, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 87.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.016 - BALING", 
+        "CALON": [
+            {
+                "NAMA": "NAJMI BIN HJ AHMAD ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 38319
+            }, 
+            {
+                "NAMA": "ABDUL AZEEZ BIN ABDUL RAHIM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 43504
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 82904, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 83127, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1081, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 223, 
+        "JUMLAH PEMILIH BERDAFTAR": 93168, 
+        "MAJORITI": 5185, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 89.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.017 - PADANG SERAI", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "HAMIDI BIN ABU HASSAN ", 
+                "PARTI": "BERJASA", 
+                "UNDI DITERIMA": 2630
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "OTHMAN BIN WAWI ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 279
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "GOBALAKRISHNAN A/L NAGAPAN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 390
+            }, 
+            {
+                "NAMA": "N SURENDRAN A/L K NAGARAJAN", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 34151
+            }, 
+            {
+                "NAMA": "HENG SEAI KIE ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25714
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 64387, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 64758, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1223, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 371, 
+        "JUMLAH PEMILIH BERDAFTAR": 74095, 
+        "MAJORITI": 8437, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 87.4
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.018 - KULIM-BANDAR BAHARU", 
+        "CALON": [
+            {
+                "NAMA": "SAIFUDDIN NASUTION BIN ISMAIL ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 24911
+            }, 
+            {
+                "NAMA": "ABD. AZIZ BIN SHEIKH FADZIR", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26782
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 52532, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 52765, 
+        "JUMLAH KERTAS UNDI DITOLAK": 839, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 233, 
+        "JUMLAH PEMILIH BERDAFTAR": 60910, 
+        "MAJORITI": 1871, 
+        "NEGERI": "KEDAH", 
+        "PERATUS PENGUNDIAN": 86.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.019 - TUMPAT", 
+        "CALON": [
+            {
+                "NAMA": "KAMARUDIN BIN JAFFAR", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 46151
+            }, 
+            {
+                "NAMA": "MANSOR BIN SALLEH ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 35527
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 82764, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 82961, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1086, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 197, 
+        "JUMLAH PEMILIH BERDAFTAR": 98632, 
+        "MAJORITI": 10624, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 84.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.020 - PENGKALAN CHEPA", 
+        "CALON": [
+            {
+                "NAMA": "IZANI BIN HUSIN", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 34617
+            }, 
+            {
+                "NAMA": "DALI BIN HUSIN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 19497
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 54797, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 54982, 
+        "JUMLAH KERTAS UNDI DITOLAK": 683, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 185, 
+        "JUMLAH PEMILIH BERDAFTAR": 64409, 
+        "MAJORITI": 15120, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 85.4
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.021 - KOTA BHARU", 
+        "CALON": [
+            {
+                "NAMA": "MOHAMAD FATMI BIN CHE SALLEH ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 24650
+            }, 
+            {
+                "NAMA": "TAKIYUDDIN BIN HASSAN", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 40620
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHD ZAKIMAN BIN ABU BAKAR ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 148
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 66084, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 66274, 
+        "JUMLAH KERTAS UNDI DITOLAK": 666, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 190, 
+        "JUMLAH PEMILIH BERDAFTAR": 81268, 
+        "MAJORITI": 15970, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 81.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.022 - PASIR MAS", 
+        "CALON": [
+            {
+                "NAMA": "IBRAHIM BIN ALI ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 25384
+            }, 
+            {
+                "NAMA": "NIK MOHAMAD ABDUH BIN NIK ABDUL AZIZ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 33431
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 59930, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 60210, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1115, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 280, 
+        "JUMLAH PEMILIH BERDAFTAR": 71965, 
+        "MAJORITI": 8047, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 83.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.023 - RANTAU PANJANG", 
+        "CALON": [
+            {
+                "NAMA": "GHAZALI BIN ISMAIL ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 17448
+            }, 
+            {
+                "NAMA": "SITI ZAILAH BINTI MOHD YUSOFF", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 23724
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 41804, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 41934, 
+        "JUMLAH KERTAS UNDI DITOLAK": 632, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 130, 
+        "JUMLAH PEMILIH BERDAFTAR": 52903, 
+        "MAJORITI": 6276, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 79.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.024 - KUBANG KERIAN", 
+        "CALON": [
+            {
+                "NAMA": "AHMAD BAIHAKI BIN ATIQULLAH", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 35510
+            }, 
+            {
+                "NAMA": "ANUAR BIN SAFIAN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 18769
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 54884, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 55106, 
+        "JUMLAH KERTAS UNDI DITOLAK": 605, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 222, 
+        "JUMLAH PEMILIH BERDAFTAR": 65390, 
+        "MAJORITI": 16741, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 84.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.025 - BACHOK", 
+        "CALON": [
+            {
+                "NAMA": "AHMAD MARZUK BIN SHAARY", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 35419
+            }, 
+            {
+                "NAMA": "AWANG ADEK BIN HUSSIN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 35218
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 71583, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 71791, 
+        "JUMLAH KERTAS UNDI DITOLAK": 946, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 208, 
+        "JUMLAH PEMILIH BERDAFTAR": 81566, 
+        "MAJORITI": 201, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 88.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.026 - KETEREH", 
+        "CALON": [
+            {
+                "NAMA": "ANNUAR BIN MUSA", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26912
+            }, 
+            {
+                "NAMA": "AB AZIZ BIN AB KADIR ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 25938
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 53726, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 53901, 
+        "JUMLAH KERTAS UNDI DITOLAK": 876, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 175, 
+        "JUMLAH PEMILIH BERDAFTAR": 62217, 
+        "MAJORITI": 974, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 86.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.027 - TANAH MERAH", 
+        "CALON": [
+            {
+                "NAMA": "NIK MAHMOOD BIN NIK HASSAN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 22278
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "AHMAD FIZAL BIN CHE HARUN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 213
+            }, 
+            {
+                "NAMA": "IKMAL HISHAM BIN ABDUL AZIZ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26505
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 49872, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 50008, 
+        "JUMLAH KERTAS UNDI DITOLAK": 876, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 136, 
+        "JUMLAH PEMILIH BERDAFTAR": 58237, 
+        "MAJORITI": 4227, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 85.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.028 - PASIR PUTEH", 
+        "CALON": [
+            {
+                "NAMA": "TUAN MUSTAFFA BIN TUAN MAT ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 31691
+            }, 
+            {
+                "NAMA": "NIK MAZIAN BIN NIK MOHAMAD", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 33579
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 66040, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 66283, 
+        "JUMLAH KERTAS UNDI DITOLAK": 770, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 243, 
+        "JUMLAH PEMILIH BERDAFTAR": 76259, 
+        "MAJORITI": 1888, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 86.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.029 - MACHANG", 
+        "CALON": [
+            {
+                "NAMA": "AHMAD JAZLAN BIN YAAKUB", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25660
+            }, 
+            {
+                "NAMA": "WAN ZAWAWI BIN WAN ISMAIL ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 24855
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 51244, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 51372, 
+        "JUMLAH KERTAS UNDI DITOLAK": 729, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 128, 
+        "JUMLAH PEMILIH BERDAFTAR": 59226, 
+        "MAJORITI": 805, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 86.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.030 - JELI", 
+        "CALON": [
+            {
+                "NAMA": "MUSTAPA BIN MOHAMED", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21223
+            }, 
+            {
+                "NAMA": "MOHD APANDI BIN MOHAMAD ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 15954
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 37599, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 37688, 
+        "JUMLAH KERTAS UNDI DITOLAK": 422, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 89, 
+        "JUMLAH PEMILIH BERDAFTAR": 43224, 
+        "MAJORITI": 5269, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 87.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.031 - KUALA KRAI", 
+        "CALON": [
+            {
+                "NAMA": "TUAN AZIZ BIN TUAN HAMAT @ TUAN MAT ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25876
+            }, 
+            {
+                "NAMA": "MOHD HATTA BIN MD RAMLI", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 27919
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 54515, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 54643, 
+        "JUMLAH KERTAS UNDI DITOLAK": 720, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 128, 
+        "JUMLAH PEMILIH BERDAFTAR": 63101, 
+        "MAJORITI": 2043, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 86.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.032 - GUA MUSANG", 
+        "CALON": [
+            {
+                "NAMA": "TENGKU RAZALEIGH BIN TENGKU MOHD HAMZAH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21367
+            }, 
+            {
+                "NAMA": "WAN ABD RAHIM BIN WAN ABDULLAH ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 12954
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 35033, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 35097, 
+        "JUMLAH KERTAS UNDI DITOLAK": 712, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 64, 
+        "JUMLAH PEMILIH BERDAFTAR": 40176, 
+        "MAJORITI": 8413, 
+        "NEGERI": "KELANTAN", 
+        "PERATUS PENGUNDIAN": 87.4
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.033 - BESUT", 
+        "CALON": [
+            {
+                "NAMA": "IDRIS BIN JUSOH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 35232
+            }, 
+            {
+                "NAMA": "RIDUAN BIN MOHAMAD NOR ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 26890
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 62763, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 63016, 
+        "JUMLAH KERTAS UNDI DITOLAK": 641, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 253, 
+        "JUMLAH PEMILIH BERDAFTAR": 72566, 
+        "MAJORITI": 8342, 
+        "NEGERI": "TERENGGANU", 
+        "PERATUS PENGUNDIAN": 86.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.034 - SETIU", 
+        "CALON": [
+            {
+                "NAMA": "CHE MOHAMAD ZULKIFLY BIN JUSOH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 33198
+            }, 
+            {
+                "NAMA": "OMAR BIN SIDEK ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 25255
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 59139, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 59139, 
+        "JUMLAH KERTAS UNDI DITOLAK": 686, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 0, 
+        "JUMLAH PEMILIH BERDAFTAR": 67280, 
+        "MAJORITI": 7943, 
+        "NEGERI": "TERENGGANU", 
+        "PERATUS PENGUNDIAN": 87.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.035 - KUALA NERUS", 
+        "CALON": [
+            {
+                "NAMA": "MOHD NASIR B. IBRAHIM @ IBRAHIM FIKRI ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 33251
+            }, 
+            {
+                "NAMA": "MOHD KHAIRUDDIN BIN AMAN RAZALI", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 33861
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 67882, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 68074, 
+        "JUMLAH KERTAS UNDI DITOLAK": 770, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 192, 
+        "JUMLAH PEMILIH BERDAFTAR": 76238, 
+        "MAJORITI": 610, 
+        "NEGERI": "TERENGGANU", 
+        "PERATUS PENGUNDIAN": 89.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.036 - KUALA TERENGGANU", 
+        "CALON": [
+            {
+                "NAMA": "MOHD ZUBIR BIN EMBONG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 35043
+            }, 
+            {
+                "NAMA": "RAJA KAMARUL BAHRIN SHAH", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 45828
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MAIMUN BINTI YUSUF ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 182
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 81898, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 82115, 
+        "JUMLAH KERTAS UNDI DITOLAK": 845, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 217, 
+        "JUMLAH PEMILIH BERDAFTAR": 94406, 
+        "MAJORITI": 10785, 
+        "NEGERI": "TERENGGANU", 
+        "PERATUS PENGUNDIAN": 87.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.037 - MARANG", 
+        "CALON": [
+            {
+                "NAMA": "YAHYA BIN KHATIB MOHAMAD ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 37860
+            }, 
+            {
+                "NAMA": "ABDUL HADI BIN AWANG", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 42984
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 81644, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 81836, 
+        "JUMLAH KERTAS UNDI DITOLAK": 800, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 192, 
+        "JUMLAH PEMILIH BERDAFTAR": 90795, 
+        "MAJORITI": 5124, 
+        "NEGERI": "TERENGGANU", 
+        "PERATUS PENGUNDIAN": 90.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.038 - HULU TERENGGANU", 
+        "CALON": [
+            {
+                "NAMA": "KAMARUZAMAN BIN ABDULLAH ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 23727
+            }, 
+            {
+                "NAMA": "JAILANI BIN JOHARI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 31940
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 56491, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 56632, 
+        "JUMLAH KERTAS UNDI DITOLAK": 824, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 141, 
+        "JUMLAH PEMILIH BERDAFTAR": 63543, 
+        "MAJORITI": 8213, 
+        "NEGERI": "TERENGGANU", 
+        "PERATUS PENGUNDIAN": 89.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.039 - DUNGUN", 
+        "CALON": [
+            {
+                "NAMA": "ROSLI BIN MAT HASSAN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 31406
+            }, 
+            {
+                "NAMA": "WAN HASSAN BIN MOHD RAMLI", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 35348
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MAZLAN BIN HARUN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 384
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 68047, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 68203, 
+        "JUMLAH KERTAS UNDI DITOLAK": 909, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 156, 
+        "JUMLAH PEMILIH BERDAFTAR": 78174, 
+        "MAJORITI": 3942, 
+        "NEGERI": "TERENGGANU", 
+        "PERATUS PENGUNDIAN": 87.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.040 - KEMAMAN", 
+        "CALON": [
+            {
+                "NAMA": "AHD SHABERY BIN CHEEK", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 45525
+            }, 
+            {
+                "NAMA": "KAMARUDIN BIN CHIK ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 33219
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 79973, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 80164, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1229, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 191, 
+        "JUMLAH PEMILIH BERDAFTAR": 91942, 
+        "MAJORITI": 12306, 
+        "NEGERI": "TERENGGANU", 
+        "PERATUS PENGUNDIAN": 87.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.041 - KEPALA BATAS", 
+        "CALON": [
+            {
+                "NAMA": "REEZAL MERICAN BIN NAINA MERICAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25128
+            }, 
+            {
+                "NAMA": "AFNAN HAMIMI BIN TAIB AZAMUDDEN ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 20952
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 46665, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 46738, 
+        "JUMLAH KERTAS UNDI DITOLAK": 585, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 73, 
+        "JUMLAH PEMILIH BERDAFTAR": 51635, 
+        "MAJORITI": 4176, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 90.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.042 - TASEK GELUGOR", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHD SHARIFF BIN OMAR ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 1590
+            }, 
+            {
+                "NAMA": "SHABUDIN BIN YAHAYA", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 24393
+            }, 
+            {
+                "NAMA": "ABDUL RAHMAN BIN B MAIDIN ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 21351
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 48009, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 48167, 
+        "JUMLAH KERTAS UNDI DITOLAK": 675, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 158, 
+        "JUMLAH PEMILIH BERDAFTAR": 54042, 
+        "MAJORITI": 3042, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 89.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.043 - BAGAN", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "LIM KIM CHU", 
+                "PARTI": "PCM", 
+                "UNDI DITERIMA": 328
+            }, 
+            {
+                "NAMA": "CHUA TEIK SIANG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12307
+            }, 
+            {
+                "NAMA": "LIM GUAN ENG", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 46466
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 59735, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 59796, 
+        "JUMLAH KERTAS UNDI DITOLAK": 634, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 61, 
+        "JUMLAH PEMILIH BERDAFTAR": 68503, 
+        "MAJORITI": 34159, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 87.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.044 - PERMATANG PAUH", 
+        "CALON": [
+            {
+                "NAMA": "MAZLAN BIN ISMAIL ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25369
+            }, 
+            {
+                "NAMA": "ANWAR BIN IBRAHIM", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 37090
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ABDULLAH ZAWAWI BIN SAMSUDIN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 201
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 63332, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 63474, 
+        "JUMLAH KERTAS UNDI DITOLAK": 672, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 142, 
+        "JUMLAH PEMILIH BERDAFTAR": 71699, 
+        "MAJORITI": 11721, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 88.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.045 - BUKIT MERTAJAM", 
+        "CALON": [
+            {
+                "NAMA": "GUI GUAT LYE ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12814
+            }, 
+            {
+                "NAMA": "SIM CHEE KEONG", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 55877
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 69403, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 69590, 
+        "JUMLAH KERTAS UNDI DITOLAK": 712, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 187, 
+        "JUMLAH PEMILIH BERDAFTAR": 78996, 
+        "MAJORITI": 43063, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 88.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.046 - BATU KAWAN", 
+        "CALON": [
+            {
+                "NAMA": "GOBALAKRISHNAN A/L NARAYANASAMY ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 10674
+            }, 
+            {
+                "NAMA": "KASTHURIRAANI A/P PATTO", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 36636
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "HUAN CHENG GUAN", 
+                "PARTI": "PCM", 
+                "UNDI DITERIMA": 1801
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHAN A/L APPAROO ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 305
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 50139, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 50209, 
+        "JUMLAH KERTAS UNDI DITOLAK": 723, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 70, 
+        "JUMLAH PEMILIH BERDAFTAR": 57500, 
+        "MAJORITI": 25962, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 87.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.047 - NIBONG TEBAL", 
+        "CALON": [
+            {
+                "NAMA": "ZAINAL ABIDIN BIN OSMAN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21405
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "TENG KOK PHENG ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 297
+            }, 
+            {
+                "NAMA": "MANSOR BIN OTHMAN", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 30003
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 52538, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 52642, 
+        "JUMLAH KERTAS UNDI DITOLAK": 833, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 104, 
+        "JUMLAH PEMILIH BERDAFTAR": 59345, 
+        "MAJORITI": 8598, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 88.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.048 - BUKIT BENDERA", 
+        "CALON": [
+            {
+                "NAMA": "ZAIRIL KHIR JOHARI", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 45591
+            }, 
+            {
+                "NAMA": "TEH LEONG MENG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12813
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 59019, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 59114, 
+        "JUMLAH KERTAS UNDI DITOLAK": 615, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 95, 
+        "JUMLAH PEMILIH BERDAFTAR": 71085, 
+        "MAJORITI": 32778, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 83.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.049 - TANJONG", 
+        "CALON": [
+            {
+                "NAMA": "NG WEI AIK", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 35510
+            }, 
+            {
+                "NAMA": "NG SONG KHENG  ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 6865
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 42870, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 42913, 
+        "JUMLAH KERTAS UNDI DITOLAK": 495, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 43, 
+        "JUMLAH PEMILIH BERDAFTAR": 51487, 
+        "MAJORITI": 28645, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 83.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.050 - JELUTONG", 
+        "CALON": [
+            {
+                "NAMA": "OOI CHUAN AUN", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 43211
+            }, 
+            {
+                "NAMA": "NG FOOK ON ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 17461
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 61441, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 61725, 
+        "JUMLAH KERTAS UNDI DITOLAK": 769, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 284, 
+        "JUMLAH PEMILIH BERDAFTAR": 71247, 
+        "MAJORITI": 25750, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 86.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.051 - BUKIT GELUGOR", 
+        "CALON": [
+            {
+                "NAMA": "TEH BENG YEAM ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 14061
+            }, 
+            {
+                "NAMA": "KARPAL SINGH A/L RAM SINGH", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 55839
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 70554, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 70691, 
+        "JUMLAH KERTAS UNDI DITOLAK": 654, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 137, 
+        "JUMLAH PEMILIH BERDAFTAR": 81897, 
+        "MAJORITI": 41778, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 86.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.052 - BAYAN BARU", 
+        "CALON": [
+            {
+                "NAMA": "SIM TZE TZIN", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 43558
+            }, 
+            {
+                "NAMA": "TANG HEAP SENG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 24251
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 68659, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 68849, 
+        "JUMLAH KERTAS UNDI DITOLAK": 850, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 190, 
+        "JUMLAH PEMILIH BERDAFTAR": 79155, 
+        "MAJORITI": 19307, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 87.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.053 - BALIK PULAU", 
+        "CALON": [
+            {
+                "NAMA": "HILMI BIN YAHAYA", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 22318
+            }, 
+            {
+                "NAMA": "MUHAMMAD BAKHTIAR BIN WAN CHIK ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 20779
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 43709, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 43777, 
+        "JUMLAH KERTAS UNDI DITOLAK": 612, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 68, 
+        "JUMLAH PEMILIH BERDAFTAR": 49641, 
+        "MAJORITI": 1539, 
+        "NEGERI": "PULAU PINANG", 
+        "PERATUS PENGUNDIAN": 88.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.054 - GERIK", 
+        "CALON": [
+            {
+                "NAMA": "NORHAYATI BINTI KASIM ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 10199
+            }, 
+            {
+                "NAMA": "HASBULLAH BIN OSMAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 16415
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 27108, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 27414, 
+        "JUMLAH KERTAS UNDI DITOLAK": 494, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 306, 
+        "JUMLAH PEMILIH BERDAFTAR": 32725, 
+        "MAJORITI": 6216, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 83.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.055 - LENGGONG", 
+        "CALON": [
+            {
+                "NAMA": "RAZMAN BIN ZAKARIA ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 9832
+            }, 
+            {
+                "NAMA": "SHAMSUL ANUAR BIN NASARAH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13285
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 23485, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 23735, 
+        "JUMLAH KERTAS UNDI DITOLAK": 368, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 250, 
+        "JUMLAH PEMILIH BERDAFTAR": 27950, 
+        "MAJORITI": 3453, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 84.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.056 - LARUT", 
+        "CALON": [
+            {
+                "NAMA": "HAMZAH BIN ZAINUDIN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 22184
+            }, 
+            {
+                "NAMA": "MOHD FAUZI BIN SA'ARI ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 16888
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "RAVEENDRAN A/L M.VALLIKANA ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 278
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 39929, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 40100, 
+        "JUMLAH KERTAS UNDI DITOLAK": 579, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 171, 
+        "JUMLAH PEMILIH BERDAFTAR": 46577, 
+        "MAJORITI": 5296, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 86.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.057 - PARIT BUNTAR", 
+        "CALON": [
+            {
+                "NAMA": "MUA'AMAR GHADAFI JAMAL BIN JAMALUDIN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 17539
+            }, 
+            {
+                "NAMA": "MUJAHID BIN YUSOF", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 26015
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 44172, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 44308, 
+        "JUMLAH KERTAS UNDI DITOLAK": 618, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 136, 
+        "JUMLAH PEMILIH BERDAFTAR": 51422, 
+        "MAJORITI": 8476, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 86.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.058 - BAGAN SERAI", 
+        "CALON": [
+            {
+                "NAMA": "MOHD NOR BIN HJ. R. M. MONUTTY ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 21874
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ABDUL LATIF BIN MASUD ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 329
+            }, 
+            {
+                "NAMA": "NOOR AZMI BIN GHAZALI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 23014
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 46313, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 46386, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1096, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 73, 
+        "JUMLAH PEMILIH BERDAFTAR": 54792, 
+        "MAJORITI": 1140, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 84.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.059 - BUKIT GANTANG", 
+        "CALON": [
+            {
+                "NAMA": "ISMAIL BIN SAFFIAN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 29577
+            }, 
+            {
+                "NAMA": "IDRIS BIN AHMAD", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 30563
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 60888, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 61018, 
+        "JUMLAH KERTAS UNDI DITOLAK": 748, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 130, 
+        "JUMLAH PEMILIH BERDAFTAR": 71257, 
+        "MAJORITI": 986, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 85.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.060 - TAIPING", 
+        "CALON": [
+            {
+                "NAMA": "TAN LIAN HOE ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25530
+            }, 
+            {
+                "NAMA": "NGA KOR MING", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 37275
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 63749, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 63913, 
+        "JUMLAH KERTAS UNDI DITOLAK": 944, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 164, 
+        "JUMLAH PEMILIH BERDAFTAR": 78148, 
+        "MAJORITI": 11745, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 81.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.061 - PADANG RENGAS", 
+        "CALON": [
+            {
+                "NAMA": "MEOR AHMAD ISHARRA BIN ISHAK ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 10775
+            }, 
+            {
+                "NAMA": "MOHAMED NAZRI BIN ABDUL AZIZ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13005
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 24190, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 24230, 
+        "JUMLAH KERTAS UNDI DITOLAK": 410, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 40, 
+        "JUMLAH PEMILIH BERDAFTAR": 28518, 
+        "MAJORITI": 2230, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 85.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.062 - SUNGAI SIPUT", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "NAGALINGAM A/L SINGARAVELLOO ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 197
+            }, 
+            {
+                "NAMA": "MICHAEL JEYAKUMAR DEVARAJ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 21593
+            }, 
+            {
+                "NAMA": "DEVAMANY A/L S KRISHNASAMY ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 18800
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 41561, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 41576, 
+        "JUMLAH KERTAS UNDI DITOLAK": 971, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 15, 
+        "JUMLAH PEMILIH BERDAFTAR": 51596, 
+        "MAJORITI": 2793, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 80.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.063 - TAMBUN", 
+        "CALON": [
+            {
+                "NAMA": "AHMAD HUSNI BIN MOHAMAD HANADZLAH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 42093
+            }, 
+            {
+                "NAMA": "SITI AISHAH BINTI SHAIK ISMAIL ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 32768
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 76052, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 76269, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1191, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 217, 
+        "JUMLAH PEMILIH BERDAFTAR": 89435, 
+        "MAJORITI": 9325, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 85.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.064 - IPOH TIMOR", 
+        "CALON": [
+            {
+                "NAMA": "KATHLEEN WONG MEI YIN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 15086
+            }, 
+            {
+                "NAMA": "SU KEONG SIONG", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 49086
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 65006, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 65217, 
+        "JUMLAH KERTAS UNDI DITOLAK": 834, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 211, 
+        "JUMLAH PEMILIH BERDAFTAR": 81818, 
+        "MAJORITI": 34000, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 79.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.065 - IPOH BARAT", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "KALWANT SINGH A/L SUJAN SINGH ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 235
+            }, 
+            {
+                "NAMA": "M. KULASEGARAN A/L V. MURUGESON", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 45420
+            }, 
+            {
+                "NAMA": "CHENG WEI YEE ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 16382
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 62912, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 63077, 
+        "JUMLAH KERTAS UNDI DITOLAK": 875, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 165, 
+        "JUMLAH PEMILIH BERDAFTAR": 77761, 
+        "MAJORITI": 29038, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 81.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.066 - BATU GAJAH", 
+        "CALON": [
+            {
+                "NAMA": "SIVAKUMAR A/L VARATHARAJU NAIDU", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 53900
+            }, 
+            {
+                "NAMA": "LOO THIN TUCK ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 15304
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 70152, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 70347, 
+        "JUMLAH KERTAS UNDI DITOLAK": 948, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 195, 
+        "JUMLAH PEMILIH BERDAFTAR": 87587, 
+        "MAJORITI": 38596, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 80.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.067 - KUALA KANGSAR", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "KAMILIA BINTI IBRAHIM ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 447
+            }, 
+            {
+                "NAMA": "WAN MOHAMMAD KHAIR-IL ANUAR BIN WAN AHMAD", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 14218
+            }, 
+            {
+                "NAMA": "KHALIL IDHAM LIM BIN ABDULLAH ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 13136
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 28208, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 28282, 
+        "JUMLAH KERTAS UNDI DITOLAK": 407, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 74, 
+        "JUMLAH PEMILIH BERDAFTAR": 33540, 
+        "MAJORITI": 1082, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 84.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.068 - BERUAS", 
+        "CALON": [
+            {
+                "NAMA": "CHANG KO YOUN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 16882
+            }, 
+            {
+                "NAMA": "NGEH KOO HAM", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 21939
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 39508, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 39586, 
+        "JUMLAH KERTAS UNDI DITOLAK": 687, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 78, 
+        "JUMLAH PEMILIH BERDAFTAR": 49205, 
+        "MAJORITI": 5057, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 80.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.069 - PARIT", 
+        "CALON": [
+            {
+                "NAMA": "MOHD ZAIM BIN ABU HASAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 16253
+            }, 
+            {
+                "NAMA": "MUHAMMAD ISMI BIN MAT TAIB ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 11756
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 28541, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 28613, 
+        "JUMLAH KERTAS UNDI DITOLAK": 532, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 72, 
+        "JUMLAH PEMILIH BERDAFTAR": 33503, 
+        "MAJORITI": 4497, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 85.4
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.070 - KAMPAR", 
+        "CALON": [
+            {
+                "NAMA": "LEE CHEE LEONG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21463
+            }, 
+            {
+                "NAMA": "KO CHUNG SEN", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 26863
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 49142, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 49265, 
+        "JUMLAH KERTAS UNDI DITOLAK": 816, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 123, 
+        "JUMLAH PEMILIH BERDAFTAR": 63619, 
+        "MAJORITI": 5400, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 77.4
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.071 - GOPENG", 
+        "CALON": [
+            {
+                "NAMA": "TAN CHIN MENG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 32249
+            }, 
+            {
+                "NAMA": "LEE BOON CHYE", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 47558
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 81236, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 81411, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1429, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 175, 
+        "JUMLAH PEMILIH BERDAFTAR": 97092, 
+        "MAJORITI": 15309, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 83.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.072 - TAPAH", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "RIDZUAN BIN BANI ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 337
+            }, 
+            {
+                "NAMA": "SARAVANAN A/L MURUGAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 20670
+            }, 
+            {
+                "NAMA": "VASANTHA KUMAR A/L KRISHNAN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 12743
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SHAHARUZZAMAN BIN BISTAMAM ", 
+                "PARTI": "BERJASA", 
+                "UNDI DITERIMA": 2053
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 36843, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 36944, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1040, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 101, 
+        "JUMLAH PEMILIH BERDAFTAR": 45485, 
+        "MAJORITI": 7927, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 81.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.073 - PASIR SALAK", 
+        "CALON": [
+            {
+                "NAMA": "TAJUDDIN BIN ABDUL RAHMAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 24875
+            }, 
+            {
+                "NAMA": "MUSTAFFA KAMIL BIN AYUB ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 17489
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 43372, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 43597, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1008, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 225, 
+        "JUMLAH PEMILIH BERDAFTAR": 51498, 
+        "MAJORITI": 7386, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 84.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.074 - LUMUT", 
+        "CALON": [
+            {
+                "NAMA": "MOHAMAD IMRAN BIN ABD HAMID", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 40308
+            }, 
+            {
+                "NAMA": "KONG CHO HA  ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 32140
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 73581, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 73752, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1133, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 171, 
+        "JUMLAH PEMILIH BERDAFTAR": 88300, 
+        "MAJORITI": 8168, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 83.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.075 - BAGAN DATOK", 
+        "CALON": [
+            {
+                "NAMA": "MADHI BIN HASAN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 15068
+            }, 
+            {
+                "NAMA": "AHMAD ZAHID BIN HAMIDI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 17176
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 32960, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 33069, 
+        "JUMLAH KERTAS UNDI DITOLAK": 716, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 109, 
+        "JUMLAH PEMILIH BERDAFTAR": 39924, 
+        "MAJORITI": 2108, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 82.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.076 - TELOK INTAN", 
+        "CALON": [
+            {
+                "NAMA": "SEAH LEONG PENG", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 27399
+            }, 
+            {
+                "NAMA": "MAH SIEW KEONG  ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 20086
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MORALINGAM A/L KANNAN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 279
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 48649, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 48839, 
+        "JUMLAH KERTAS UNDI DITOLAK": 885, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 190, 
+        "JUMLAH PEMILIH BERDAFTAR": 60483, 
+        "MAJORITI": 7313, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 80.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.077 - TANJONG MALIM", 
+        "CALON": [
+            {
+                "NAMA": "DATO' SERI ONG KA CHUAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 28225
+            }, 
+            {
+                "NAMA": "TAN YEE KEW ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 23897
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 53237, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 53395, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1115, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 158, 
+        "JUMLAH PEMILIH BERDAFTAR": 64499, 
+        "MAJORITI": 4328, 
+        "NEGERI": "PERAK", 
+        "PERATUS PENGUNDIAN": 82.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.078 - CAMERON HIGHLANDS", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHD SHOKRI BIN MAHMOOD ", 
+                "PARTI": "BERJASA", 
+                "UNDI DITERIMA": 912
+            }, 
+            {
+                "NAMA": "MANOGARAN A/L MARIMUTHU ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 10044
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "KISHO KUMAR A/L KATHIRVELOO ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 101
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ALAGU A/L THANGARAJOO ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 308
+            }, 
+            {
+                "NAMA": "PALANIVEL A/L K. GOVINDASAMY", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 10506
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 22748, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 22752, 
+        "JUMLAH KERTAS UNDI DITOLAK": 877, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 4, 
+        "JUMLAH PEMILIH BERDAFTAR": 27980, 
+        "MAJORITI": 462, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 81.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.079 - LIPIS", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "AISHATON BINTI ABU BAKAR ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 303
+            }, 
+            {
+                "NAMA": "ABDUL RAHMAN BIN MOHAMAD", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 14863
+            }, 
+            {
+                "NAMA": "MOHD MAHYUDDIN BIN GHAZAL @ RAZALI  ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 11394
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 26986, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 27125, 
+        "JUMLAH KERTAS UNDI DITOLAK": 426, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 139, 
+        "JUMLAH PEMILIH BERDAFTAR": 32324, 
+        "MAJORITI": 3469, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 83.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.080 - RAUB", 
+        "CALON": [
+            {
+                "NAMA": "MOHD ARIFF SABRI BIN ABDUL AZIZ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 23415
+            }, 
+            {
+                "NAMA": "HOH KHAI MUN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 20601
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 44943, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 45060, 
+        "JUMLAH KERTAS UNDI DITOLAK": 927, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 117, 
+        "JUMLAH PEMILIH BERDAFTAR": 54214, 
+        "MAJORITI": 2814, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 83.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.081 - JERANTUT", 
+        "CALON": [
+            {
+                "NAMA": "DR. HAMZAH BIN JAAFFAR ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 22012
+            }, 
+            {
+                "NAMA": "AHMAD NAZLAN BIN IDRIS", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26544
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 49461, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 49600, 
+        "JUMLAH KERTAS UNDI DITOLAK": 905, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 139, 
+        "JUMLAH PEMILIH BERDAFTAR": 58364, 
+        "MAJORITI": 4532, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 85.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.082 - INDERA MAHKOTA", 
+        "CALON": [
+            {
+                "NAMA": "ADNAN BIN WAN MAMAT ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 23061
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "PONUSAMY A/L GOVINDASAMY ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 193
+            }, 
+            {
+                "NAMA": "FAUZI BIN ABDUL RAHMAN", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 30584
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 54527, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 54738, 
+        "JUMLAH KERTAS UNDI DITOLAK": 689, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 211, 
+        "JUMLAH PEMILIH BERDAFTAR": 64219, 
+        "MAJORITI": 7523, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 85.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.083 - KUANTAN", 
+        "CALON": [
+            {
+                "NAMA": "MOHAMED SUFFIAN BIN AWANG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21319
+            }, 
+            {
+                "NAMA": "FUZIAH BINTI SALLEH", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 25834
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 47723, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 47857, 
+        "JUMLAH KERTAS UNDI DITOLAK": 570, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 134, 
+        "JUMLAH PEMILIH BERDAFTAR": 56280, 
+        "MAJORITI": 4515, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 85.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.084 - PAYA BESAR", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ZAHARI BIN MAMAT ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 272
+            }, 
+            {
+                "NAMA": "ABDUL MANAN BIN ISMAIL", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 23747
+            }, 
+            {
+                "NAMA": "MURNIE HIDAYAH BINTI ANUAR ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 16032
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 40694, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 40952, 
+        "JUMLAH KERTAS UNDI DITOLAK": 643, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 258, 
+        "JUMLAH PEMILIH BERDAFTAR": 48067, 
+        "MAJORITI": 7715, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 85.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.085 - PEKAN", 
+        "CALON": [
+            {
+                "NAMA": "MOHD NAJIB BIN HJ ABD RAZAK", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 51278
+            }, 
+            {
+                "NAMA": "MOHD. FARIZ B. ABD. TALIB @ MUSA ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 15665
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 68218, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 68463, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1275, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 245, 
+        "JUMLAH PEMILIH BERDAFTAR": 80260, 
+        "MAJORITI": 35613, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 85.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.086 - MARAN", 
+        "CALON": [
+            {
+                "NAMA": "MUJIBUR RAHMAN BIN ISHAK ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 12774
+            }, 
+            {
+                "NAMA": "ISMAIL BIN ABD. MUTTALIB", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 19249
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 32595, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 32751, 
+        "JUMLAH KERTAS UNDI DITOLAK": 572, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 156, 
+        "JUMLAH PEMILIH BERDAFTAR": 38436, 
+        "MAJORITI": 6475, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 85.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.087 - KUALA KRAU", 
+        "CALON": [
+            {
+                "NAMA": "ISMAIL BIN MOHAMED SAID", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21575
+            }, 
+            {
+                "NAMA": "SHAHRIL AZMAN BIN ABD HALIM ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 15370
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 37548, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 37663, 
+        "JUMLAH KERTAS UNDI DITOLAK": 603, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 115, 
+        "JUMLAH PEMILIH BERDAFTAR": 43003, 
+        "MAJORITI": 6205, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 87.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.088 - TEMERLOH", 
+        "CALON": [
+            {
+                "NAMA": "SAIFUDDIN BIN ABDULLAH ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 27197
+            }, 
+            {
+                "NAMA": "NASRUDIN BIN HASSAN", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 28267
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 56441, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 56595, 
+        "JUMLAH KERTAS UNDI DITOLAK": 977, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 154, 
+        "JUMLAH PEMILIH BERDAFTAR": 66105, 
+        "MAJORITI": 1070, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 85.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.089 - BENTONG", 
+        "CALON": [
+            {
+                "NAMA": "WONG TACK ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 25568
+            }, 
+            {
+                "NAMA": "LIOW TIONG LAI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25947
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 52503, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 52627, 
+        "JUMLAH KERTAS UNDI DITOLAK": 988, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 124, 
+        "JUMLAH PEMILIH BERDAFTAR": 62266, 
+        "MAJORITI": 379, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 84.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.090 - BERA", 
+        "CALON": [
+            {
+                "NAMA": "ZAKARIA BIN ABDUL HAMID ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 19526
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHD WALI BIN ALANG AHAMAD ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 670
+            }, 
+            {
+                "NAMA": "ISMAIL SABRI BIN YAAKOB", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21669
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 42830, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 42944, 
+        "JUMLAH KERTAS UNDI DITOLAK": 965, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 114, 
+        "JUMLAH PEMILIH BERDAFTAR": 50997, 
+        "MAJORITI": 2143, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 84.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.091 - ROMPIN", 
+        "CALON": [
+            {
+                "NAMA": "JAMALUDIN BIN JARJIS", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 30040
+            }, 
+            {
+                "NAMA": "NURIDAH BINTI MOHD SALLEH ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 14926
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 45849, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 46035, 
+        "JUMLAH KERTAS UNDI DITOLAK": 883, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 186, 
+        "JUMLAH PEMILIH BERDAFTAR": 53596, 
+        "MAJORITI": 15114, 
+        "NEGERI": "PAHANG", 
+        "PERATUS PENGUNDIAN": 85.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.092 - SABAK BERNAM", 
+        "CALON": [
+            {
+                "NAMA": "ABDUL AZIZ BIN BARI ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 14743
+            }, 
+            {
+                "NAMA": "MOHD FASIAH BIN MOHD FAKEH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 16387
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 31697, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 31889, 
+        "JUMLAH KERTAS UNDI DITOLAK": 567, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 192, 
+        "JUMLAH PEMILIH BERDAFTAR": 37318, 
+        "MAJORITI": 1644, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 85.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.093 - SUNGAI BESAR", 
+        "CALON": [
+            {
+                "NAMA": "MOHAMED SALLEH BIN M HUSIN ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 18296
+            }, 
+            {
+                "NAMA": "NORIAH BINTI KASNON", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 18695
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 37681, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 37811, 
+        "JUMLAH KERTAS UNDI DITOLAK": 690, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 130, 
+        "JUMLAH PEMILIH BERDAFTAR": 42837, 
+        "MAJORITI": 399, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 88.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.094 - HULU SELANGOR", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SANTHARA KUMAR A/L RAMANAIDU ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 999
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "RADZALI BIN MOKHTAR ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 1105
+            }, 
+            {
+                "NAMA": "KHALID BIN JAAFAR ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 33989
+            }, 
+            {
+                "NAMA": "P.KAMALANATHAN A/L P.PANCHANATHAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 37403
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 74939, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 75119, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1443, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 180, 
+        "JUMLAH PEMILIH BERDAFTAR": 85697, 
+        "MAJORITI": 3414, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 87.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.095 - TANJONG KARANG", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MASRUN BIN TAMSI ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 340
+            }, 
+            {
+                "NAMA": "NOH BIN OMAR", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 20548
+            }, 
+            {
+                "NAMA": "MOHAMAD RASHDI BIN DERAMAN ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 16154
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 37676, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 37768, 
+        "JUMLAH KERTAS UNDI DITOLAK": 634, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 92, 
+        "JUMLAH PEMILIH BERDAFTAR": 42333, 
+        "MAJORITI": 4394, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 89.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.096 - KUALA SELANGOR", 
+        "CALON": [
+            {
+                "NAMA": "DZULKEFLY BIN AHMAD ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 27040
+            }, 
+            {
+                "NAMA": "IRMOHIZAM BIN IBRAHIM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 27500
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 55474, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 55592, 
+        "JUMLAH KERTAS UNDI DITOLAK": 934, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 118, 
+        "JUMLAH PEMILIH BERDAFTAR": 62298, 
+        "MAJORITI": 460, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 89.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.097 - SELAYANG", 
+        "CALON": [
+            {
+                "NAMA": "WILLIAM LEONG JEE KEEN", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 52287
+            }, 
+            {
+                "NAMA": "LIM SIANG CHAI ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 34441
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "HAJI MOHD HAZIZI BIN AB. RAHMAN ", 
+                "PARTI": "BERJASA", 
+                "UNDI DITERIMA": 4152
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 92315, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 92528, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1435, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 213, 
+        "JUMLAH PEMILIH BERDAFTAR": 105895, 
+        "MAJORITI": 17846, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 87.4
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.098 - GOMBAK", 
+        "CALON": [
+            {
+                "NAMA": "MOHAMED AZMIN BIN ALI", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 54827
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SAID NAZAR BIN ABU BAKER ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 474
+            }, 
+            {
+                "NAMA": "RAMAN BIN ISMAIL ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 50093
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 106747, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 107162, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1353, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 415, 
+        "JUMLAH PEMILIH BERDAFTAR": 123290, 
+        "MAJORITI": 4734, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 86.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.099 - AMPANG", 
+        "CALON": [
+            {
+                "NAMA": "ZURAIDA BINTI KAMARUDDIN", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 41969
+            }, 
+            {
+                "NAMA": "ROZAIDAH BINTI TALIB ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 28691
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 71398, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 71575, 
+        "JUMLAH KERTAS UNDI DITOLAK": 738, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 177, 
+        "JUMLAH PEMILIH BERDAFTAR": 83135, 
+        "MAJORITI": 13278, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 86.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.100 - PANDAN", 
+        "CALON": [
+            {
+                "NAMA": "MOHD RAFIZI BIN RAMLI", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 48183
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "TAN YEW LENG ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 2415
+            }, 
+            {
+                "NAMA": "LIM CHIN YEE ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21454
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 73074, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 73225, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1022, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 151, 
+        "JUMLAH PEMILIH BERDAFTAR": 83857, 
+        "MAJORITI": 26729, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 87.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.101 - HULU LANGAT", 
+        "CALON": [
+            {
+                "NAMA": "ADZHALIZA BINTI MOHD NOR ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 46860
+            }, 
+            {
+                "NAMA": "CHE ROSLI BIN CHE MAT", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 64127
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 112322, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 112872, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1335, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 550, 
+        "JUMLAH PEMILIH BERDAFTAR": 127347, 
+        "MAJORITI": 17267, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 88.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.102 - SERDANG", 
+        "CALON": [
+            {
+                "NAMA": "YAP PIAN HON ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 37032
+            }, 
+            {
+                "NAMA": "ONG KIAN MING", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 79238
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 118031, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 118314, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1761, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 283, 
+        "JUMLAH PEMILIH BERDAFTAR": 133139, 
+        "MAJORITI": 42206, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 88.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.103 - PUCHONG", 
+        "CALON": [
+            {
+                "NAMA": "GOBIND SINGH DEO", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 62938
+            }, 
+            {
+                "NAMA": "A. KOHILAN PILLAY A/L G. APPU ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 30136
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 94325, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 94367, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1251, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 42, 
+        "JUMLAH PEMILIH BERDAFTAR": 107010, 
+        "MAJORITI": 32802, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 88.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.104 - KELANA JAYA", 
+        "CALON": [
+            {
+                "NAMA": "LOH SENG KOK ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 27963
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "TOH SIN WAH ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 363
+            }, 
+            {
+                "NAMA": "WONG CHEN", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 56790
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 86276, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 86571, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1160, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 295, 
+        "JUMLAH PEMILIH BERDAFTAR": 101236, 
+        "MAJORITI": 28827, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 85.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.105 - PETALING JAYA SELATAN", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "IBRAHIM BIN KHATIB ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 1447
+            }, 
+            {
+                "NAMA": "HEE LOY SIAN", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 41062
+            }, 
+            {
+                "NAMA": "SHEAH KOK FAH ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21846
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 65185, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 65320, 
+        "JUMLAH KERTAS UNDI DITOLAK": 830, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 135, 
+        "JUMLAH PEMILIH BERDAFTAR": 79558, 
+        "MAJORITI": 19216, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 82.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.106 - PETALING JAYA UTARA", 
+        "CALON": [
+            {
+                "NAMA": "CHEW HOONG LING ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12735
+            }, 
+            {
+                "NAMA": "PUA KIAM WEE", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 57407
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 70614, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 70727, 
+        "JUMLAH KERTAS UNDI DITOLAK": 472, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 113, 
+        "JUMLAH PEMILIH BERDAFTAR": 85401, 
+        "MAJORITI": 44672, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 82.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.107 - SUBANG", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "NAZARUDDIN BIN MOHAMED FERDOOS ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 460
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "EDROS BIN ABDULLAH ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 218
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHAMAD BIN ISMAIL ", 
+                "PARTI": "BERJASA", 
+                "UNDI DITERIMA": 4454
+            }, 
+            {
+                "NAMA": "PAKAS RAO A/L APPLANAIDOO ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 39549
+            }, 
+            {
+                "NAMA": "SIVARASA A/L K. RASIAH", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 66268
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 112618, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 112995, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1669, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 377, 
+        "JUMLAH PEMILIH BERDAFTAR": 128543, 
+        "MAJORITI": 26719, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 87.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.108 - SHAH ALAM", 
+        "CALON": [
+            {
+                "NAMA": "ZULKIFLI BIN NOORDIN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 38070
+            }, 
+            {
+                "NAMA": "KHALID BIN ABD SAMAD", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 49009
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 87942, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 88126, 
+        "JUMLAH KERTAS UNDI DITOLAK": 863, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 184, 
+        "JUMLAH PEMILIH BERDAFTAR": 99957, 
+        "MAJORITI": 10939, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 88.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.109 - KAPAR", 
+        "CALON": [
+            {
+                "NAMA": "SAKTHIVEL A/L ALAGAPPAN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 46059
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "NORHAMZAH BIN SURATMAN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 1067
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "PALAYA A/L RENGAIAH ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 231
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHD PATHAN BIN HUSSIN ", 
+                "PARTI": "BERJASA", 
+                "UNDI DITERIMA": 6289
+            }, 
+            {
+                "NAMA": "G MANIVANNAN A/L GOWINDASAMY", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 69849
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHD NAZRI BIN ABDUL AZIZ ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 835
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 126709, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 127012, 
+        "JUMLAH KERTAS UNDI DITOLAK": 2379, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 303, 
+        "JUMLAH PEMILIH BERDAFTAR": 144159, 
+        "MAJORITI": 23790, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 88.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.110 - KLANG", 
+        "CALON": [
+            {
+                "NAMA": "TEH KIM POO ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 29034
+            }, 
+            {
+                "NAMA": "CHARLES ANTHONY A/L R. SANTIAGO", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 53719
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 84096, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 84214, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1343, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 118, 
+        "JUMLAH PEMILIH BERDAFTAR": 97073, 
+        "MAJORITI": 24685, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 86.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.111 - KOTA RAJA", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "UTHAYAKUMAR ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 2364
+            }, 
+            {
+                "NAMA": "MURUGESAN A/L SINNANDAVAR ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 29711
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "AZMAN BIN IDRUS  ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 280
+            }, 
+            {
+                "NAMA": "SITI MARIAH BINTI MAHMUD", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 59106
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 92563, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 92719, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1102, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 156, 
+        "JUMLAH PEMILIH BERDAFTAR": 105909, 
+        "MAJORITI": 29395, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 87.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.112 - KUALA LANGAT", 
+        "CALON": [
+            {
+                "NAMA": "SHARUDDIN BIN OMAR ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 35625
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "KOTTAPPAN A/L SUPPAIAH ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 426
+            }, 
+            {
+                "NAMA": "ABDULLAH SANI BIN ABDUL HAMID", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 40983
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 78551, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 78718, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1517, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 167, 
+        "JUMLAH PEMILIH BERDAFTAR": 88474, 
+        "MAJORITI": 5358, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 89.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.113 - SEPANG", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "HANAPIAH BIN MOHAMAD ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 318
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SUHAIMI BIN MOHD GHAZALI ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 963
+            }, 
+            {
+                "NAMA": "MOHD ZIN BIN MOHAMED ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 35670
+            }, 
+            {
+                "NAMA": "MOHAMED HANIPA BIN MAIDIN", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 36774
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 74944, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 75202, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1219, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 258, 
+        "JUMLAH PEMILIH BERDAFTAR": 84362, 
+        "MAJORITI": 1104, 
+        "NEGERI": "SELANGOR", 
+        "PERATUS PENGUNDIAN": 89.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.114 - KEPONG", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "YEE POH PING ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 2757
+            }, 
+            {
+                "NAMA": "TAN SENG GIAW @ TAN CHUN TIN", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 47837
+            }, 
+            {
+                "NAMA": "CHANDRAKUMANAN A/L ARUMUGAM ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 7530
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 58512, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 58585, 
+        "JUMLAH KERTAS UNDI DITOLAK": 388, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 73, 
+        "JUMLAH PEMILIH BERDAFTAR": 68035, 
+        "MAJORITI": 40307, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 86.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.115 - BATU", 
+        "CALON": [
+            {
+                "NAMA": "CHUA TIAN CHANG", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 41672
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ATAN BIN JASIN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 164
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "HASHIM BIN ABDUL KARIM ", 
+                "PARTI": "BERJASA", 
+                "UNDI DITERIMA": 949
+            }, 
+            {
+                "NAMA": "DOMINIC LAU HOE CHAI ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 28388
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "NAZARIAH BINTI ABBAS ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 209
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 71988, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 72147, 
+        "JUMLAH KERTAS UNDI DITOLAK": 606, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 159, 
+        "JUMLAH PEMILIH BERDAFTAR": 85402, 
+        "MAJORITI": 13284, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 84.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.116 - WANGSA MAJU", 
+        "CALON": [
+            {
+                "NAMA": "MOHD SHAFEI BIN ABDULLAH ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26130
+            }, 
+            {
+                "NAMA": "TAN KEE KWONG", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 31641
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 58146, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 58291, 
+        "JUMLAH KERTAS UNDI DITOLAK": 375, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 145, 
+        "JUMLAH PEMILIH BERDAFTAR": 67775, 
+        "MAJORITI": 5511, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 86.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.117 - SEGAMBUT", 
+        "CALON": [
+            {
+                "NAMA": "LIM LIP ENG", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 41383
+            }, 
+            {
+                "NAMA": "JAYANTHI DEVI A/P BALAGURU ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 22184
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 64052, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 64184, 
+        "JUMLAH KERTAS UNDI DITOLAK": 485, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 132, 
+        "JUMLAH PEMILIH BERDAFTAR": 75631, 
+        "MAJORITI": 19199, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 84.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.118 - SETIAWANGSA", 
+        "CALON": [
+            {
+                "NAMA": "AHMAD FAUZI BIN ZAHARI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26809
+            }, 
+            {
+                "NAMA": "IBRAHIM BIN YAACOB ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 25419
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 52730, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 52910, 
+        "JUMLAH KERTAS UNDI DITOLAK": 502, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 180, 
+        "JUMLAH PEMILIH BERDAFTAR": 62309, 
+        "MAJORITI": 1390, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 84.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.119 - TITIWANGSA", 
+        "CALON": [
+            {
+                "NAMA": "JOHARI BIN ABDUL GHANI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 23034
+            }, 
+            {
+                "NAMA": "AHMAD ZAMRI BIN ASA'AD KHUZAMI ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 22168
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 45513, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 45631, 
+        "JUMLAH KERTAS UNDI DITOLAK": 311, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 118, 
+        "JUMLAH PEMILIH BERDAFTAR": 55282, 
+        "MAJORITI": 866, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 82.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.120 - BUKIT BINTANG", 
+        "CALON": [
+            {
+                "NAMA": "GAN JOON ZIN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 11009
+            }, 
+            {
+                "NAMA": "FONG KUI LUN", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 30408
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 41772, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 41824, 
+        "JUMLAH KERTAS UNDI DITOLAK": 355, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 52, 
+        "JUMLAH PEMILIH BERDAFTAR": 55721, 
+        "MAJORITI": 19399, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 75.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.121 - LEMBAH PANTAI", 
+        "CALON": [
+            {
+                "NAMA": "NURUL IZZAH BINTI ANWAR", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 31008
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "RUSLI BIN BABA ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 167
+            }, 
+            {
+                "NAMA": "RAJA NONG CHIK BIN RAJA ZAINAL ABIDIN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 29161
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 60855, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 61048, 
+        "JUMLAH KERTAS UNDI DITOLAK": 519, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 193, 
+        "JUMLAH PEMILIH BERDAFTAR": 72396, 
+        "MAJORITI": 1847, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 84.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.122 - SEPUTEH", 
+        "CALON": [
+            {
+                "NAMA": "TERESA KOK SUH SIM", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 61500
+            }, 
+            {
+                "NAMA": "WONG SIAW TING ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 9948
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 71750, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 71859, 
+        "JUMLAH KERTAS UNDI DITOLAK": 302, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 109, 
+        "JUMLAH PEMILIH BERDAFTAR": 85976, 
+        "MAJORITI": 51552, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 83.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.123 - CHERAS", 
+        "CALON": [
+            {
+                "NAMA": "TEOH CHEE HOOI ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 10840
+            }, 
+            {
+                "NAMA": "TAN KOK WAI", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 48249
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 59404, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 59492, 
+        "JUMLAH KERTAS UNDI DITOLAK": 315, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 88, 
+        "JUMLAH PEMILIH BERDAFTAR": 72551, 
+        "MAJORITI": 37409, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 82.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.124 - BANDAR TUN RAZAK", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHAMAD SUKERI BIN ABDUL SAMAT ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 793
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOKHTAR BIN SALAHUDIN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 191
+            }, 
+            {
+                "NAMA": "TAN KOK ENG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 32235
+            }, 
+            {
+                "NAMA": "ABD KHALID BIN IBRAHIM", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 44067
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 78147, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 78157, 
+        "JUMLAH KERTAS UNDI DITOLAK": 861, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 10, 
+        "JUMLAH PEMILIH BERDAFTAR": 90993, 
+        "MAJORITI": 11832, 
+        "NEGERI": "W.P. KUALA LUMPUR", 
+        "PERATUS PENGUNDIAN": 85.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.125 - PUTRAJAYA", 
+        "CALON": [
+            {
+                "NAMA": "TENGKU ADNAN BIN TENGKU MANSOR", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 9943
+            }, 
+            {
+                "NAMA": "HUSAM BIN MUSA ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 4402
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 14418, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 14465, 
+        "JUMLAH KERTAS UNDI DITOLAK": 73, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 47, 
+        "JUMLAH PEMILIH BERDAFTAR": 15791, 
+        "MAJORITI": 5541, 
+        "NEGERI": "W.P. PUTRAJAYA", 
+        "PERATUS PENGUNDIAN": 91.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.126 - JELEBU", 
+        "CALON": [
+            {
+                "NAMA": "ZAINUDIN BIN ISMAIL", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 22114
+            }, 
+            {
+                "NAMA": "RAJ MUNNI BINTI SABU ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 15013
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 37883, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 38020, 
+        "JUMLAH KERTAS UNDI DITOLAK": 756, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 137, 
+        "JUMLAH PEMILIH BERDAFTAR": 44937, 
+        "MAJORITI": 7101, 
+        "NEGERI": "NEGERI SEMBILAN", 
+        "PERATUS PENGUNDIAN": 84.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.127 - JEMPOL", 
+        "CALON": [
+            {
+                "NAMA": "WAN AISHAH BINTI WAN ARIFFIN ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 22495
+            }, 
+            {
+                "NAMA": "MOHD ISA BIN ABDUL SAMAD", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 31109
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 54701, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 54858, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1097, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 157, 
+        "JUMLAH PEMILIH BERDAFTAR": 65213, 
+        "MAJORITI": 8614, 
+        "NEGERI": "NEGERI SEMBILAN", 
+        "PERATUS PENGUNDIAN": 84.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.128 - SEREMBAN", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ABDUL HALIM BIN ABDULLAH ", 
+                "PARTI": "BERJASA", 
+                "UNDI DITERIMA": 6866
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "JOHN A/L FERNANDEZ ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 221
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "BUJANG BIN ABU ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 83
+            }, 
+            {
+                "NAMA": "LOKE SIEW FOOK", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 45628
+            }, 
+            {
+                "NAMA": "YEOW CHAI THIAM ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 33075
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 87359, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 87632, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1486, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 273, 
+        "JUMLAH PEMILIH BERDAFTAR": 102305, 
+        "MAJORITI": 12553, 
+        "NEGERI": "NEGERI SEMBILAN", 
+        "PERATUS PENGUNDIAN": 85.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.129 - KUALA PILAH", 
+        "CALON": [
+            {
+                "NAMA": "HASAN BIN MALEK", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 24507
+            }, 
+            {
+                "NAMA": "MOHD NAZREE BIN MOHD YUNUS ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 14846
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 40147, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 40293, 
+        "JUMLAH KERTAS UNDI DITOLAK": 794, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 146, 
+        "JUMLAH PEMILIH BERDAFTAR": 47671, 
+        "MAJORITI": 9661, 
+        "NEGERI": "NEGERI SEMBILAN", 
+        "PERATUS PENGUNDIAN": 84.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.130 - RASAH", 
+        "CALON": [
+            {
+                "NAMA": "TEO ENG KIAN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25479
+            }, 
+            {
+                "NAMA": "TEO KOK SEONG", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 48964
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 75651, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 75877, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1208, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 226, 
+        "JUMLAH PEMILIH BERDAFTAR": 88403, 
+        "MAJORITI": 23485, 
+        "NEGERI": "NEGERI SEMBILAN", 
+        "PERATUS PENGUNDIAN": 85.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.131 - REMBAU", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ABDUL AZIZ BIN HASSAN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 325
+            }, 
+            {
+                "NAMA": "KHAIRY JAMALUDDIN ABU BAKAR", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 43053
+            }, 
+            {
+                "NAMA": "RADZALI BIN A. GHANI ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 24696
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 69288, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 69538, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1214, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 250, 
+        "JUMLAH PEMILIH BERDAFTAR": 79661, 
+        "MAJORITI": 18357, 
+        "NEGERI": "NEGERI SEMBILAN", 
+        "PERATUS PENGUNDIAN": 87.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.132 - TELOK KEMANG", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "KAMARUDIN KUMARAVEL BIN ABDULLAH ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 394
+            }, 
+            {
+                "NAMA": "KAMARUL BAHARIN BIN ABBAS", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 29848
+            }, 
+            {
+                "NAMA": "MOGAN A/L VELAYATHAM ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 28269
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 59855, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 59981, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1344, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 126, 
+        "JUMLAH PEMILIH BERDAFTAR": 70524, 
+        "MAJORITI": 1579, 
+        "NEGERI": "NEGERI SEMBILAN", 
+        "PERATUS PENGUNDIAN": 85.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.133 - TAMPIN", 
+        "CALON": [
+            {
+                "NAMA": "ABDUL RAZAKEK BIN ABDUL RAHIM ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 18228
+            }, 
+            {
+                "NAMA": "SHAZIMAN BIN ABU MANSOR", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 29390
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 48660, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 48796, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1042, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 136, 
+        "JUMLAH PEMILIH BERDAFTAR": 57268, 
+        "MAJORITI": 11162, 
+        "NEGERI": "NEGERI SEMBILAN", 
+        "PERATUS PENGUNDIAN": 85.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.134 - MASJID TANAH", 
+        "CALON": [
+            {
+                "NAMA": "MAS ERMIEYATI BINTI SAMSUDIN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 27688
+            }, 
+            {
+                "NAMA": "MOHD NASAIE BIN ISMAIL ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 11488
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 39742, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 39827, 
+        "JUMLAH KERTAS UNDI DITOLAK": 566, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 85, 
+        "JUMLAH PEMILIH BERDAFTAR": 45952, 
+        "MAJORITI": 16200, 
+        "NEGERI": "MELAKA", 
+        "PERATUS PENGUNDIAN": 86.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.135 - ALOR GAJAH", 
+        "CALON": [
+            {
+                "NAMA": "DAMIAN YEO SHEN LI ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 20997
+            }, 
+            {
+                "NAMA": "KOH NAI KWONG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 32594
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 55010, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 55106, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1419, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 96, 
+        "JUMLAH PEMILIH BERDAFTAR": 63591, 
+        "MAJORITI": 11597, 
+        "NEGERI": "MELAKA", 
+        "PERATUS PENGUNDIAN": 86.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.136 - TANGGA BATU", 
+        "CALON": [
+            {
+                "NAMA": "ABU BAKAR BIN MOHAMAD DIAH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 39468
+            }, 
+            {
+                "NAMA": "RAHIM BIN ALI ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 23835
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 64289, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 64423, 
+        "JUMLAH KERTAS UNDI DITOLAK": 986, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 134, 
+        "JUMLAH PEMILIH BERDAFTAR": 73282, 
+        "MAJORITI": 15633, 
+        "NEGERI": "MELAKA", 
+        "PERATUS PENGUNDIAN": 87.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.137 - BUKIT KATIL", 
+        "CALON": [
+            {
+                "NAMA": "SHAMSUL ISKANDAR @ YUSRE BIN MOHD AKIN", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 46167
+            }, 
+            {
+                "NAMA": "HAJI MOHD ALI BIN HAJI MOHD RUSTAM ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 40720
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 87939, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 88120, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1052, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 181, 
+        "JUMLAH PEMILIH BERDAFTAR": 99438, 
+        "MAJORITI": 5447, 
+        "NEGERI": "MELAKA", 
+        "PERATUS PENGUNDIAN": 88.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.138 - KOTA MELAKA", 
+        "CALON": [
+            {
+                "NAMA": "YEE KOK WAH ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 28775
+            }, 
+            {
+                "NAMA": "SIM TONG HIM", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 49521
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 79464, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 79638, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1168, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 174, 
+        "JUMLAH PEMILIH BERDAFTAR": 92322, 
+        "MAJORITI": 20746, 
+        "NEGERI": "MELAKA", 
+        "PERATUS PENGUNDIAN": 86.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.139 - JASIN", 
+        "CALON": [
+            {
+                "NAMA": "RAHMAT BIN YUSOF ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 21973
+            }, 
+            {
+                "NAMA": "AHMAD BIN HAMZAH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 33736
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 56710, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 56913, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1001, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 203, 
+        "JUMLAH PEMILIH BERDAFTAR": 64455, 
+        "MAJORITI": 11763, 
+        "NEGERI": "MELAKA", 
+        "PERATUS PENGUNDIAN": 88.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.140 - SEGAMAT", 
+        "CALON": [
+            {
+                "NAMA": "SUBRAMANIAM A/L K.V SATHASIVAM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 20037
+            }, 
+            {
+                "NAMA": "DATO CHUA JUI MENG ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 18820
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 39807, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 39899, 
+        "JUMLAH KERTAS UNDI DITOLAK": 950, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 92, 
+        "JUMLAH PEMILIH BERDAFTAR": 47009, 
+        "MAJORITI": 1217, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 84.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.141 - SEKIJANG", 
+        "CALON": [
+            {
+                "NAMA": "JULAILEY BIN JEMADI ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 16927
+            }, 
+            {
+                "NAMA": "ANUAR BIN ABD. MANAP", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 19934
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 37448, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 37519, 
+        "JUMLAH KERTAS UNDI DITOLAK": 587, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 71, 
+        "JUMLAH PEMILIH BERDAFTAR": 43066, 
+        "MAJORITI": 3007, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 87.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.142 - LABIS", 
+        "CALON": [
+            {
+                "NAMA": "RAMAKRISHNAN A/L SUPPIAH ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 15468
+            }, 
+            {
+                "NAMA": "CHUA TEE YONG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 15821
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 31978, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 32026, 
+        "JUMLAH KERTAS UNDI DITOLAK": 689, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 48, 
+        "JUMLAH PEMILIH BERDAFTAR": 37714, 
+        "MAJORITI": 353, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 84.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.143 - PAGOH", 
+        "CALON": [
+            {
+                "NAMA": "MAHIADDIN BIN MD YASIN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26274
+            }, 
+            {
+                "NAMA": "MOHAMAD ROZALI BIN JAMIL ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 13432
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 40515, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 40612, 
+        "JUMLAH KERTAS UNDI DITOLAK": 809, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 97, 
+        "JUMLAH PEMILIH BERDAFTAR": 46793, 
+        "MAJORITI": 12842, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 86.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.144 - LEDANG", 
+        "CALON": [
+            {
+                "NAMA": "HAMIM BIN SAMURI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 30619
+            }, 
+            {
+                "NAMA": "HASSAN BIN ABDUL KARIM ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 28652
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 60348, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 60404, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1077, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 56, 
+        "JUMLAH PEMILIH BERDAFTAR": 69316, 
+        "MAJORITI": 1967, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 87.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.145 - BAKRI", 
+        "CALON": [
+            {
+                "NAMA": "LEE CHING YONG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26051
+            }, 
+            {
+                "NAMA": "ER TECK HWA", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 31118
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 58270, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 58460, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1101, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 190, 
+        "JUMLAH PEMILIH BERDAFTAR": 67202, 
+        "MAJORITI": 5067, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 87.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.146 - MUAR", 
+        "CALON": [
+            {
+                "NAMA": "NOR HIZWAN BIN AHMAD ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 19221
+            }, 
+            {
+                "NAMA": "RAZALI BIN IBRAHIM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 20867
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 40892, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 40993, 
+        "JUMLAH KERTAS UNDI DITOLAK": 804, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 101, 
+        "JUMLAH PEMILIH BERDAFTAR": 48208, 
+        "MAJORITI": 1646, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 85.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.147 - PARIT SULONG", 
+        "CALON": [
+            {
+                "NAMA": "KHAIRUDDIN BIN A RAHIM  ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 18505
+            }, 
+            {
+                "NAMA": "NORAINI BINTI AHMAD", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 30258
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 49715, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 49852, 
+        "JUMLAH KERTAS UNDI DITOLAK": 952, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 137, 
+        "JUMLAH PEMILIH BERDAFTAR": 56896, 
+        "MAJORITI": 11753, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 87.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.148 - AYER HITAM", 
+        "CALON": [
+            {
+                "NAMA": "HU PANG CHAW ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 14735
+            }, 
+            {
+                "NAMA": "WEE KA SIONG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 22045
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 37747, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 37839, 
+        "JUMLAH KERTAS UNDI DITOLAK": 967, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 92, 
+        "JUMLAH PEMILIH BERDAFTAR": 42913, 
+        "MAJORITI": 7310, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 88.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.149 - SRI GADING", 
+        "CALON": [
+            {
+                "NAMA": "MOHD KHUZZAN BIN ABU BAKAR ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 16692
+            }, 
+            {
+                "NAMA": "AB AZIZ BIN KAPRAWI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 22453
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 39818, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 39901, 
+        "JUMLAH KERTAS UNDI DITOLAK": 673, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 83, 
+        "JUMLAH PEMILIH BERDAFTAR": 44816, 
+        "MAJORITI": 5761, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 89.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.150 - BATU PAHAT", 
+        "CALON": [
+            {
+                "NAMA": "MOHD IDRIS BIN JUSI", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 38667
+            }, 
+            {
+                "NAMA": "MOHD PUAD BIN ZARKASHI ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 36935
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 77047, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 77200, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1445, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 153, 
+        "JUMLAH PEMILIH BERDAFTAR": 88272, 
+        "MAJORITI": 1732, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 87.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.151 - SIMPANG RENGGAM", 
+        "CALON": [
+            {
+                "NAMA": "SUHAIZAN BIN KAIAT  ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 14048
+            }, 
+            {
+                "NAMA": "LIANG TECK MENG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 19754
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 34670, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 34743, 
+        "JUMLAH KERTAS UNDI DITOLAK": 868, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 73, 
+        "JUMLAH PEMILIH BERDAFTAR": 40143, 
+        "MAJORITI": 5706, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 86.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.152 - KLUANG", 
+        "CALON": [
+            {
+                "NAMA": "HOU KOK CHUNG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 33215
+            }, 
+            {
+                "NAMA": "LIEW CHIN TONG", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 40574
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 75081, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 75308, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1292, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 227, 
+        "JUMLAH PEMILIH BERDAFTAR": 86732, 
+        "MAJORITI": 7359, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 86.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.153 - SEMBRONG", 
+        "CALON": [
+            {
+                "NAMA": "HISHAMMUDDIN BIN DATUK HUSSEIN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 22841
+            }, 
+            {
+                "NAMA": "ONN BIN ABU BAKAR ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 12210
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 35860, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 35921, 
+        "JUMLAH KERTAS UNDI DITOLAK": 809, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 61, 
+        "JUMLAH PEMILIH BERDAFTAR": 41588, 
+        "MAJORITI": 10631, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 86.4
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.154 - MERSING", 
+        "CALON": [
+            {
+                "NAMA": "ROSLAN BIN NIKMAT ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 10437
+            }, 
+            {
+                "NAMA": "ABD. LATIFF BIN AHMAD", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26184
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 37299, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 37394, 
+        "JUMLAH KERTAS UNDI DITOLAK": 678, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 95, 
+        "JUMLAH PEMILIH BERDAFTAR": 44497, 
+        "MAJORITI": 15747, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 84.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.155 - TENGGARA", 
+        "CALON": [
+            {
+                "NAMA": "HALIMAH BINTI MOHD SADIQUE", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25698
+            }, 
+            {
+                "NAMA": "MUHAMAD SAID BIN JONIT  ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 8502
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 34876, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 35146, 
+        "JUMLAH KERTAS UNDI DITOLAK": 676, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 270, 
+        "JUMLAH PEMILIH BERDAFTAR": 39694, 
+        "MAJORITI": 17196, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 88.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.156 - KOTA TINGGI", 
+        "CALON": [
+            {
+                "NAMA": "ONN BIN JAAFAR ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 5799
+            }, 
+            {
+                "NAMA": "NOOR EHSANUDDIN BIN MOHD HARUN NARRASHID", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 30373
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 36868, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 36943, 
+        "JUMLAH KERTAS UNDI DITOLAK": 696, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 75, 
+        "JUMLAH PEMILIH BERDAFTAR": 41894, 
+        "MAJORITI": 24574, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 88.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.157 - PENGERANG", 
+        "CALON": [
+            {
+                "NAMA": "TENGKU INTAN BINTI TENGKU ABDUL HAMID  ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 4484
+            }, 
+            {
+                "NAMA": "AZALINA BINTI OTHMAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26992
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHD AZAMAN BIN JOHARI  ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 795
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 32969, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 33116, 
+        "JUMLAH KERTAS UNDI DITOLAK": 698, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 147, 
+        "JUMLAH PEMILIH BERDAFTAR": 37999, 
+        "MAJORITI": 22508, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 87.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.158 - TEBRAU", 
+        "CALON": [
+            {
+                "NAMA": "CHOONG SHIAU YOON ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 38218
+            }, 
+            {
+                "NAMA": "KHOO SOO SEANG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 39985
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 79754, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 79833, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1551, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 79, 
+        "JUMLAH PEMILIH BERDAFTAR": 90482, 
+        "MAJORITI": 1767, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 88.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.159 - PASIR GUDANG", 
+        "CALON": [
+            {
+                "NAMA": "AHMAD FAIDHI BIN SAIDI ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 42899
+            }, 
+            {
+                "NAMA": "NORMALA BINTI ABDUL SAMAD", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 43834
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 86845, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 88549, 
+        "JUMLAH KERTAS UNDI DITOLAK": 112, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 1704, 
+        "JUMLAH PEMILIH BERDAFTAR": 101041, 
+        "MAJORITI": 935, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 87.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.160 - JOHOR BAHRU", 
+        "CALON": [
+            {
+                "NAMA": "SHARIL @ SHAHRIR BIN AB SAMAD", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 44285
+            }, 
+            {
+                "NAMA": "MD HASHIM BIN HUSSEIN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 34151
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 79723, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 79881, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1287, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 158, 
+        "JUMLAH PEMILIH BERDAFTAR": 96321, 
+        "MAJORITI": 10134, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 82.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.161 - PULAI", 
+        "CALON": [
+            {
+                "NAMA": "NUR JAZLAN BIN MOHAMED", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 43751
+            }, 
+            {
+                "NAMA": "SALAHUDDIN BIN AYUB ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 40525
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 85762, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 85972, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1486, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 210, 
+        "JUMLAH PEMILIH BERDAFTAR": 100490, 
+        "MAJORITI": 3226, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 85.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.162 - GELANG PATAH", 
+        "CALON": [
+            {
+                "NAMA": "A. GHANI BIN OTHMAN ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 39522
+            }, 
+            {
+                "NAMA": "LIM KIT SIANG", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 54284
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 94865, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 95071, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1059, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 206, 
+        "JUMLAH PEMILIH BERDAFTAR": 106726, 
+        "MAJORITI": 14762, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 89.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.163 - KULAI", 
+        "CALON": [
+            {
+                "NAMA": "TEO NIE CHING", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 43338
+            }, 
+            {
+                "NAMA": "TAY CHIN HEIN  ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 29888
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SURENDIRAN A/L KUPPAYAH  ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 238
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 74896, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 75010, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1432, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 114, 
+        "JUMLAH PEMILIH BERDAFTAR": 83991, 
+        "MAJORITI": 13450, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 89.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.164 - PONTIAN", 
+        "CALON": [
+            {
+                "NAMA": "HANIFF @ GHAZALI BIN HOSMAN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 14077
+            }, 
+            {
+                "NAMA": "AHMAD BIN MASLAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 27804
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 42754, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 42834, 
+        "JUMLAH KERTAS UNDI DITOLAK": 873, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 80, 
+        "JUMLAH PEMILIH BERDAFTAR": 49633, 
+        "MAJORITI": 13727, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 86.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.165 - TANJONG PIAI", 
+        "CALON": [
+            {
+                "NAMA": "WEE JECK SENG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25038
+            }, 
+            {
+                "NAMA": "MAHDZIR BIN IBRAHIM  ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 19581
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 45537, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 45621, 
+        "JUMLAH KERTAS UNDI DITOLAK": 918, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 84, 
+        "JUMLAH PEMILIH BERDAFTAR": 51875, 
+        "MAJORITI": 5457, 
+        "NEGERI": "JOHOR", 
+        "PERATUS PENGUNDIAN": 87.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.166 - LABUAN", 
+        "CALON": [
+            {
+                "NAMA": "TAN SRI IBRAHIM BIN MENUDIN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 6069
+            }, 
+            {
+                "NAMA": "ROZMAN BIN ISLI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12694
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "HADNAN BIN MOHAMAD ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 386
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 19356, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 19377, 
+        "JUMLAH KERTAS UNDI DITOLAK": 207, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 21, 
+        "JUMLAH PEMILIH BERDAFTAR": 24474, 
+        "MAJORITI": 6625, 
+        "NEGERI": "W.P. LABUAN", 
+        "PERATUS PENGUNDIAN": 79.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.167 - KUDAT", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOJURIP BIN DIYUN", 
+                "PARTI": "SAPP", 
+                "UNDI DITERIMA": 963
+            }, 
+            {
+                "NAMA": "RAHIMAH BINTI MAJID ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 9507
+            }, 
+            {
+                "NAMA": "DATUK ABD RAHIM BIN BAKRI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21883
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "JUTIRIM BIN GALIBAI GALABI ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 3083
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 36355, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 36421, 
+        "JUMLAH KERTAS UNDI DITOLAK": 919, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 66, 
+        "JUMLAH PEMILIH BERDAFTAR": 47249, 
+        "MAJORITI": 12376, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 77.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.168 - KOTA MARUDU", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MAJAMIS BIN TIMBONG ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 2228
+            }, 
+            {
+                "NAMA": "JOHNITY @ MAXIMUS BIN ONGKILI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 15168
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "YUNTAU BIN KOLOD @ KUNTAU BIN KOLOD", 
+                "PARTI": "SAPP", 
+                "UNDI DITERIMA": 444
+            }, 
+            {
+                "NAMA": "MAIJOL BIN MAHAP ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 14326
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 33077, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 33116, 
+        "JUMLAH KERTAS UNDI DITOLAK": 911, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 39, 
+        "JUMLAH PEMILIH BERDAFTAR": 42197, 
+        "MAJORITI": 842, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 78.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.169 - KOTA BELUD", 
+        "CALON": [
+            {
+                "NAMA": "ISNARAISSAH MUNIRAH BT. MAJILIS @ FAKHARUDY ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 16673
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "LAMSIL BIN AMIDSOR ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 979
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "KANUL BIN GINDOL ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 185
+            }, 
+            {
+                "NAMA": "DATO' ABD RAHMAN BIN DAHLAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21768
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "JALUMIN BIN BAYOGOH ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 2709
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 43423, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 43500, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1109, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 77, 
+        "JUMLAH PEMILIH BERDAFTAR": 51467, 
+        "MAJORITI": 5095, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 84.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.170 - TUARAN", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SAMIN @ JASMIN BIN DULIN ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 1509
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ERVEANA ANSARI ALI ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 2264
+            }, 
+            {
+                "NAMA": "MADIUS BIN TANGAU", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 20685
+            }, 
+            {
+                "NAMA": "MOJILIP BIN BUMBURING @ WILFRED ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 15495
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 40748, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 40833, 
+        "JUMLAH KERTAS UNDI DITOLAK": 795, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 85, 
+        "JUMLAH PEMILIH BERDAFTAR": 48276, 
+        "MAJORITI": 5190, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 84.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.171 - SEPANGGAR", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "CHIN HON KIONG", 
+                "PARTI": "SAPP", 
+                "UNDI DITERIMA": 4070
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "DANIEL JOHN JAMBUN ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 1931
+            }, 
+            {
+                "NAMA": "JEFFREY KUMIN @ JOHN ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 13403
+            }, 
+            {
+                "NAMA": "DATUK JUMAT BIN IDRIS", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 22845
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 43416, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 43501, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1167, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 85, 
+        "JUMLAH PEMILIH BERDAFTAR": 53374, 
+        "MAJORITI": 9442, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 81.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.172 - KOTA KINABALU", 
+        "CALON": [
+            {
+                "NAMA": "CHIN TEK MING ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 9557
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "LIEW HOCK LEONG @ MICHAEL ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 909
+            }, 
+            {
+                "NAMA": "WONG SZE PHIN @ JIMMY", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 28516
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 39488, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 39545, 
+        "JUMLAH KERTAS UNDI DITOLAK": 506, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 57, 
+        "JUMLAH PEMILIH BERDAFTAR": 50516, 
+        "MAJORITI": 18959, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 78.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.173 - PUTATAN", 
+        "CALON": [
+            {
+                "NAMA": "LEE HAN KYUN @ JOSEPH LEE ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 7958
+            }, 
+            {
+                "NAMA": "MAKIN @ MARCUS MOJIGOH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 17465
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "DULI @ DULLIE BIN MARI @ MARIE", 
+                "PARTI": "SAPP", 
+                "UNDI DITERIMA": 1068
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "AWANG AHMAD SAH ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 2604
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 29760, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 29886, 
+        "JUMLAH KERTAS UNDI DITOLAK": 665, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 126, 
+        "JUMLAH PEMILIH BERDAFTAR": 37490, 
+        "MAJORITI": 9507, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 79.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.174 - PENAMPANG", 
+        "CALON": [
+            {
+                "NAMA": "BERNARD GILUK DOMPOK ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12382
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MELANIA @ MELANIE ANNOL ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 1119
+            }, 
+            {
+                "NAMA": "IGNATIUS DORELL LEIKING", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 22598
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 36553, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 36883, 
+        "JUMLAH KERTAS UNDI DITOLAK": 454, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 330, 
+        "JUMLAH PEMILIH BERDAFTAR": 44323, 
+        "MAJORITI": 10216, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 83.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.175 - PAPAR", 
+        "CALON": [
+            {
+                "NAMA": "DATUK ROSNAH BINTI HJ ABD RASHID SHIRLIN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21196
+            }, 
+            {
+                "NAMA": "MOHAMMAD YAHYA @ YAHYA BIN LAMPONG ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 10661
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "BALON BIN MUJIM ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 838
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 33194, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 33262, 
+        "JUMLAH KERTAS UNDI DITOLAK": 499, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 68, 
+        "JUMLAH PEMILIH BERDAFTAR": 38771, 
+        "MAJORITI": 10535, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 85.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.176 - KIMANIS", 
+        "CALON": [
+            {
+                "NAMA": "DATUK ANIFAH BIN AMAN @ HANIFF AMMAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13754
+            }, 
+            {
+                "NAMA": "JAAFAR BIN ISMAIL ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 8031
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "JAMIL BIN WILLIAM CORE", 
+                "PARTI": "SAPP", 
+                "UNDI DITERIMA": 650
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "LUSIN BIN BALANGON ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 240
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 23128, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 23168, 
+        "JUMLAH KERTAS UNDI DITOLAK": 453, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 40, 
+        "JUMLAH PEMILIH BERDAFTAR": 26628, 
+        "MAJORITI": 5723, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 87.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.177 - BEAUFORT", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "GUAN DEE BIN KOH HOI ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 409
+            }, 
+            {
+                "NAMA": "DATUK AZIZAH BINTI MOHD DUN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12827
+            }, 
+            {
+                "NAMA": "LAJIM BIN UKIN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 12154
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 25949, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 26072, 
+        "JUMLAH KERTAS UNDI DITOLAK": 559, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 123, 
+        "JUMLAH PEMILIH BERDAFTAR": 30097, 
+        "MAJORITI": 673, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 86.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.178 - SIPITANG", 
+        "CALON": [
+            {
+                "NAMA": "DATUK SAPAWI BIN AMAT WASALI @ AHMAD", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 16377
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "KAMIS BIN DAMING", 
+                "PARTI": "SAPP", 
+                "UNDI DITERIMA": 505
+            }, 
+            {
+                "NAMA": "RAMLE BIN DUA @ RAMLI DUA LEE ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 6908
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 24329, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 24387, 
+        "JUMLAH KERTAS UNDI DITOLAK": 539, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 58, 
+        "JUMLAH PEMILIH BERDAFTAR": 29177, 
+        "MAJORITI": 9469, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 83.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.179 - RANAU", 
+        "CALON": [
+            {
+                "NAMA": "JONATHAN BIN YASIN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 11823
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "YAZID BIN SAHJINAN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 914
+            }, 
+            {
+                "NAMA": "EWON EBIN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 15434
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "JULIANAH BTE SITUN @ WIDYA JULIA ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 2559
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 31396, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 31455, 
+        "JUMLAH KERTAS UNDI DITOLAK": 666, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 59, 
+        "JUMLAH PEMILIH BERDAFTAR": 39053, 
+        "MAJORITI": 3611, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 80.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.180 - KENINGAU", 
+        "CALON": [
+            {
+                "NAMA": "GAPARI BIN KATINGAN @ GEOFFREY KITINGAN ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 11900
+            }, 
+            {
+                "NAMA": "JOSEPH PAIRIN KITINGAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 15818
+            }, 
+            {
+                "NAMA": "STEPHEN SANDOR ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 7825
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 36098, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 36143, 
+        "JUMLAH KERTAS UNDI DITOLAK": 555, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 45, 
+        "JUMLAH PEMILIH BERDAFTAR": 43691, 
+        "MAJORITI": 3918, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 82.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.181 - TENOM", 
+        "CALON": [
+            {
+                "NAMA": "DATUK RAIME BIN UNGGI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 9771
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MUTANG @ SYLVESTER BIN DAWAT", 
+                "PARTI": "KITA", 
+                "UNDI DITERIMA": 423
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "JAINEH BIN JUAYA @ JIMMY JAWATAH", 
+                "PARTI": "SAPP", 
+                "UNDI DITERIMA": 1766
+            }, 
+            {
+                "NAMA": "MASDIN BIN TUMAS ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 5885
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "HASMIN @ AZROY BIN ABDULLAH ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 2449
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 20926, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 20943, 
+        "JUMLAH KERTAS UNDI DITOLAK": 632, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 17, 
+        "JUMLAH PEMILIH BERDAFTAR": 25304, 
+        "MAJORITI": 3886, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 82.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.182 - PENSIANGAN", 
+        "CALON": [
+            {
+                "NAMA": "MARTIN TOMY @ TOMMY  ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 3554
+            }, 
+            {
+                "NAMA": "RICHARD SAKIAN BIN GUNTING ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 7723
+            }, 
+            {
+                "NAMA": "JOSEPH KURUP", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 9467
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "FATIMAH BINTI AGITOR @ MOHD DAUD ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 152
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 21379, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 21391, 
+        "JUMLAH KERTAS UNDI DITOLAK": 483, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 12, 
+        "JUMLAH PEMILIH BERDAFTAR": 26194, 
+        "MAJORITI": 1744, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 81.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.183 - BELURAN", 
+        "CALON": [
+            {
+                "NAMA": "RONALD KIANDEE", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13174
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "RAIMON BIN LANJAT ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 1460
+            }, 
+            {
+                "NAMA": "JAMES BIN MIKI ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 3186
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "DATU KAMARUDDIN BIN DATU MUSTAPHA ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 542
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 18914, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 18940, 
+        "JUMLAH KERTAS UNDI DITOLAK": 552, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 26, 
+        "JUMLAH PEMILIH BERDAFTAR": 24688, 
+        "MAJORITI": 9988, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 76.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.184 - LIBARAN", 
+        "CALON": [
+            {
+                "NAMA": "DATUK JUSLIE BIN AJIROL", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 19584
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SAHAR BIN SAKA ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 3219
+            }, 
+            {
+                "NAMA": "MOHD SERMAN BIN HASSNAR ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 7998
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ROSNAH BINTI UNSARI ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 502
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 32017, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 32128, 
+        "JUMLAH KERTAS UNDI DITOLAK": 714, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 111, 
+        "JUMLAH PEMILIH BERDAFTAR": 39772, 
+        "MAJORITI": 11586, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 80.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.185 - BATU SAPI", 
+        "CALON": [
+            {
+                "NAMA": "HAMZA BIN A. ABDULLAH @ HAMZAH ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 9287
+            }, 
+            {
+                "NAMA": "TSEN THAU LIN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13085
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SAIFUL BAHARI RASHADA BIN AHMAD ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 410
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 23356, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 23403, 
+        "JUMLAH KERTAS UNDI DITOLAK": 574, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 47, 
+        "JUMLAH PEMILIH BERDAFTAR": 30199, 
+        "MAJORITI": 3798, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 77.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.186 - SANDAKAN", 
+        "CALON": [
+            {
+                "NAMA": "LIEW VUI KEONG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13138
+            }, 
+            {
+                "NAMA": "WONG TIEN FATT @ WONG NYUK FOH", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 14226
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 27889, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 27923, 
+        "JUMLAH KERTAS UNDI DITOLAK": 525, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 34, 
+        "JUMLAH PEMILIH BERDAFTAR": 37058, 
+        "MAJORITI": 1088, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 75.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.187 - KINABATANGAN", 
+        "CALON": [
+            {
+                "NAMA": "ABDULLAH BIN ABDUL SANI ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 3646
+            }, 
+            {
+                "NAMA": "DATUK MOKTAR BIN RADIN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13377
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "HAJI ALI LATIP BIN HAJI TAHA ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 1130
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "YAMBUYA BIN PARANTIS @ CYRIL PONGOD ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 1153
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 19960, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 19997, 
+        "JUMLAH KERTAS UNDI DITOLAK": 654, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 37, 
+        "JUMLAH PEMILIH BERDAFTAR": 24748, 
+        "MAJORITI": 9731, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 80.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.188 - SILAM", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "APAS @ NAWAWIE BIN SAKING ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 841
+            }, 
+            {
+                "NAMA": "BADRULAMIN BIN BAHRON ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 9671
+            }, 
+            {
+                "NAMA": "DATU NASRUN BIN DATU MANSUR", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 23058
+            }, 
+            {
+                "NAMA": "DUMI BIN PG. MASDAL ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 4959
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 39606, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 39663, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1077, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 57, 
+        "JUMLAH PEMILIH BERDAFTAR": 51662, 
+        "MAJORITI": 13387, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 76.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.189 - SEMPORNA", 
+        "CALON": [
+            {
+                "NAMA": "DATUK SERI MOHD SHAFIE BIN APDAL", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 25559
+            }, 
+            {
+                "NAMA": "ZAMREE @ MOHD SUFFIAN B ABDUL HABI ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 4654
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "DATU BADARUDDIN BIN TUN DATU HJ MUSTAPHA ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 325
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 31523, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 31599, 
+        "JUMLAH KERTAS UNDI DITOLAK": 985, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 76, 
+        "JUMLAH PEMILIH BERDAFTAR": 41549, 
+        "MAJORITI": 20905, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 76.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.190 - TAWAU", 
+        "CALON": [
+            {
+                "NAMA": "YAP KAIN CHING @ MARY YAP KEN JIN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 21331
+            }, 
+            {
+                "NAMA": "KONG HONG MING @ KONG FO MIN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 16352
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "CHUA SOON BUI", 
+                "PARTI": "SAPP", 
+                "UNDI DITERIMA": 633
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "AHMAD BIN AWANG @ MADON ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 553
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 39658, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 39764, 
+        "JUMLAH KERTAS UNDI DITOLAK": 789, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 106, 
+        "JUMLAH PEMILIH BERDAFTAR": 51538, 
+        "MAJORITI": 4979, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 77.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.191 - KALABAKAN", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MOHD BIN MANUKE ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 1313
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MALVINE REYES ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 603
+            }, 
+            {
+                "NAMA": "ABDUL GHAPUR BIN SALLEH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 23125
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "FREDDIE JAPAT ANAK SIMBOL ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 137
+            }, 
+            {
+                "NAMA": "USMAN BIN MADEAMING ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 8904
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "YAHYA BIN ZAINAL  ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 132
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SIAMSIR BIN BORHAN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 891
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 36132, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 36228, 
+        "JUMLAH KERTAS UNDI DITOLAK": 1027, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 96, 
+        "JUMLAH PEMILIH BERDAFTAR": 46793, 
+        "MAJORITI": 14221, 
+        "NEGERI": "SABAH", 
+        "PERATUS PENGUNDIAN": 77.4
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.192 - MAS GADING", 
+        "CALON": [
+            {
+                "NAMA": "NOGEH ANAK GUMBEK", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 8265
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "PATRICK ANEK UREN ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 462
+            }, 
+            {
+                "NAMA": "MORDI ANAK BIMOL ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 5293
+            }, 
+            {
+                "NAMA": "TEKHEE @ TIKI ANAK LAFE ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 6109
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 20353, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 20384, 
+        "JUMLAH KERTAS UNDI DITOLAK": 224, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 31, 
+        "JUMLAH PEMILIH BERDAFTAR": 25771, 
+        "MAJORITI": 2156, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 79.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.193 - SANTUBONG", 
+        "CALON": [
+            {
+                "NAMA": "WAN JUNAIDI BIN TUANKU JAAFAR", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 24655
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "AFFENDI BIN JEMAN ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 233
+            }, 
+            {
+                "NAMA": "ZULRUSDI BIN MOHAMAD HOL ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 3719
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "MURA BIN KADIR ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 206
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 29207, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 29286, 
+        "JUMLAH KERTAS UNDI DITOLAK": 394, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 79, 
+        "JUMLAH PEMILIH BERDAFTAR": 37017, 
+        "MAJORITI": 20936, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 79.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.194 - PETRA JAYA", 
+        "CALON": [
+            {
+                "NAMA": "AHMAD NAZIB BIN JOHARI ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 8116
+            }, 
+            {
+                "NAMA": "FADILLAH BIN YUSOF", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 29559
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 37996, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 38170, 
+        "JUMLAH KERTAS UNDI DITOLAK": 321, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 174, 
+        "JUMLAH PEMILIH BERDAFTAR": 49750, 
+        "MAJORITI": 21443, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 76.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.195 - BANDAR KUCHING", 
+        "CALON": [
+            {
+                "NAMA": "TAN KAI ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 10491
+            }, 
+            {
+                "NAMA": "CHONG CHIENG JEN", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 30133
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 40825, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 40879, 
+        "JUMLAH KERTAS UNDI DITOLAK": 201, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 54, 
+        "JUMLAH PEMILIH BERDAFTAR": 53336, 
+        "MAJORITI": 19642, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 76.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.196 - STAMPIN", 
+        "CALON": [
+            {
+                "NAMA": "YONG KHOON HIAN @ YONG KHOON SENG ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 22993
+            }, 
+            {
+                "NAMA": "JULIAN TAN KOK PING", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 41663
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SOO LINA ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 239
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 65383, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 65515, 
+        "JUMLAH KERTAS UNDI DITOLAK": 488, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 132, 
+        "JUMLAH PEMILIH BERDAFTAR": 84732, 
+        "MAJORITI": 18670, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 77.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.197 - KOTA SAMARAHAN", 
+        "CALON": [
+            {
+                "NAMA": "RUBIAH BINTI WANG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 24202
+            }, 
+            {
+                "NAMA": "ABANG AHMAD KERDEE BIN ABANG MASAGUS ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 6801
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 31531, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 31610, 
+        "JUMLAH KERTAS UNDI DITOLAK": 528, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 79, 
+        "JUMLAH PEMILIH BERDAFTAR": 38158, 
+        "MAJORITI": 17401, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 82.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.198 - MAMBONG", 
+        "CALON": [
+            {
+                "NAMA": "WILLIE ANAK MONGIN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 10740
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "DRIPIN ANAK SAKOI ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 704
+            }, 
+            {
+                "NAMA": "JAMES DAWOS MAMIT", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 20461
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 32579, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 32695, 
+        "JUMLAH KERTAS UNDI DITOLAK": 674, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 116, 
+        "JUMLAH PEMILIH BERDAFTAR": 42344, 
+        "MAJORITI": 9721, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 77.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.199 - SERIAN", 
+        "CALON": [
+            {
+                "NAMA": "EDWARD ANAK ANDREW LUWAK ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 6343
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "JOHNNY ANAK APUT ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 390
+            }, 
+            {
+                "NAMA": "RICHARD RIOT ANAK JAEM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 19494
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 26523, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 26562, 
+        "JUMLAH KERTAS UNDI DITOLAK": 296, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 39, 
+        "JUMLAH PEMILIH BERDAFTAR": 33713, 
+        "MAJORITI": 13151, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 78.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.200 - BATANG SADONG", 
+        "CALON": [
+            {
+                "NAMA": "MOHAMAD BIN JOLHI ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 2017
+            }, 
+            {
+                "NAMA": "NANCY BINTI SHUKRI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13277
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 15521, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 15541, 
+        "JUMLAH KERTAS UNDI DITOLAK": 227, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 20, 
+        "JUMLAH PEMILIH BERDAFTAR": 19839, 
+        "MAJORITI": 11260, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 78.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.201 - BATANG LUPAR", 
+        "CALON": [
+            {
+                "NAMA": "ABANG ZULKIFLI BIN ABANG ENGKEH ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 4661
+            }, 
+            {
+                "NAMA": "ROHANI BINTI ABDUL KARIM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 15625
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 20711, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 20754, 
+        "JUMLAH KERTAS UNDI DITOLAK": 425, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 43, 
+        "JUMLAH PEMILIH BERDAFTAR": 27360, 
+        "MAJORITI": 10964, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 75.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.202 - SRI AMAN", 
+        "CALON": [
+            {
+                "NAMA": "NICHOLAS MUJAH ANAK ASON ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 5618
+            }, 
+            {
+                "NAMA": "MASIR ANAK KUJAT", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12168
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "WILFRED STEPHEN", 
+                "PARTI": "SWP", 
+                "UNDI DITERIMA": 476
+            }, 
+            {
+                "NAMA": "DONALD LAWAN  ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 3867
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 22353, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 22409, 
+        "JUMLAH KERTAS UNDI DITOLAK": 224, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 56, 
+        "JUMLAH PEMILIH BERDAFTAR": 29789, 
+        "MAJORITI": 6550, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 75.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.203 - LUBOK ANTU", 
+        "CALON": [
+            {
+                "NAMA": "NICHOLAS BAWIN ANAK ANGGAT ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 2530
+            }, 
+            {
+                "NAMA": "WILLIAM @ NYALLAU ANAK BADAK", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 8278
+            }, 
+            {
+                "NAMA": "LARRY SOON @ LARRY SNG WEI SHIEN", 
+                "PARTI": "SWP", 
+                "UNDI DITERIMA": 4187
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 15138, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 15166, 
+        "JUMLAH KERTAS UNDI DITOLAK": 143, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 28, 
+        "JUMLAH PEMILIH BERDAFTAR": 19303, 
+        "MAJORITI": 4091, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 78.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.204 - BETONG", 
+        "CALON": [
+            {
+                "NAMA": "DOUGLAS UGGAH EMBAS", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 15476
+            }, 
+            {
+                "NAMA": "CECILIA SITI UNA @ SITTIE ENDEK ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 4589
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 20380, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 20439, 
+        "JUMLAH KERTAS UNDI DITOLAK": 315, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 59, 
+        "JUMLAH PEMILIH BERDAFTAR": 26322, 
+        "MAJORITI": 10887, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 77.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.205 - SARATOK", 
+        "CALON": [
+            {
+                "NAMA": "ALI ANAK BIJU ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 9519
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ROSLI BIN LEK @ ABG ROSELIE BIN ABG PALENG ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 681
+            }, 
+            {
+                "NAMA": "WILLIAM IKOM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 11600
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 22058, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 22136, 
+        "JUMLAH KERTAS UNDI DITOLAK": 258, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 78, 
+        "JUMLAH PEMILIH BERDAFTAR": 27562, 
+        "MAJORITI": 2081, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 80.3
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.206 - TANJONG MANIS", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "JURINA BINTI MUT ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 1571
+            }, 
+            {
+                "NAMA": "NORAH BINTI ABD RAHMAN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12535
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 14344, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 14402, 
+        "JUMLAH KERTAS UNDI DITOLAK": 238, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 58, 
+        "JUMLAH PEMILIH BERDAFTAR": 19215, 
+        "MAJORITI": 10964, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 75.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.207 - IGAN", 
+        "CALON": [
+            {
+                "NAMA": "WAHAB BIN HAJI DOLAH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 11896
+            }, 
+            {
+                "NAMA": "AJIJI BIN FAUZAN ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 1747
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 13865, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 13898, 
+        "JUMLAH KERTAS UNDI DITOLAK": 222, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 33, 
+        "JUMLAH PEMILIH BERDAFTAR": 17771, 
+        "MAJORITI": 10149, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 78.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.208 - SARIKEI", 
+        "CALON": [
+            {
+                "NAMA": "DING KUONG HIING  ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13758
+            }, 
+            {
+                "NAMA": "WONG LING BIU", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 14263
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 28298, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 28353, 
+        "JUMLAH KERTAS UNDI DITOLAK": 277, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 55, 
+        "JUMLAH PEMILIH BERDAFTAR": 36550, 
+        "MAJORITI": 505, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 77.6
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.209 - JULAU", 
+        "CALON": [
+            {
+                "NAMA": "WONG ANAK JUDAT", 
+                "PARTI": "SWP", 
+                "UNDI DITERIMA": 3936
+            }, 
+            {
+                "NAMA": "WONG HONG YU ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 2852
+            }, 
+            {
+                "NAMA": "JOSEPH SALANG ANAK GANDUM", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 9891
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 16957, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 16973, 
+        "JUMLAH KERTAS UNDI DITOLAK": 278, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 16, 
+        "JUMLAH PEMILIH BERDAFTAR": 22522, 
+        "MAJORITI": 5955, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 75.4
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.210 - KANOWIT", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ELLISON LUDAN ANAK MUYAN", 
+                "PARTI": "SWP", 
+                "UNDI DITERIMA": 417
+            }, 
+            {
+                "NAMA": "THOMAS LAJA ANAK BESI ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 5004
+            }, 
+            {
+                "NAMA": "AGO ANAK DAGANG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 8046
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 13743, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 13759, 
+        "JUMLAH KERTAS UNDI DITOLAK": 276, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 16, 
+        "JUMLAH PEMILIH BERDAFTAR": 19433, 
+        "MAJORITI": 3042, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 70.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.211 - LANANG", 
+        "CALON": [
+            {
+                "NAMA": "TIONG THAI KING ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 17983
+            }, 
+            {
+                "NAMA": "ALICE LAU KIONG YIENG", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 26613
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 44900, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 44956, 
+        "JUMLAH KERTAS UNDI DITOLAK": 304, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 56, 
+        "JUMLAH PEMILIH BERDAFTAR": 57143, 
+        "MAJORITI": 8630, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 78.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.212 - SIBU", 
+        "CALON": [
+            {
+                "NAMA": "LAU LEE MING ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 23967
+            }, 
+            {
+                "NAMA": "OSCAR LING CHAI YEW", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 26808
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "NARAWI BIN HARON ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 203
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 51474, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 51588, 
+        "JUMLAH KERTAS UNDI DITOLAK": 496, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 114, 
+        "JUMLAH PEMILIH BERDAFTAR": 64601, 
+        "MAJORITI": 2841, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 79.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.213 - MUKAH", 
+        "CALON": [
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "SYLVESTER AJAH SUBAH @ AJAH BIN SUBAH ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 2219
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "HAI BIN MERAWIN @ BONAVENTURE ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 2219
+            }, 
+            {
+                "NAMA": "MUHAMMAD LEO MICHAEL TOYAD ABDULLAH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 14983
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 19838, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 19879, 
+        "JUMLAH KERTAS UNDI DITOLAK": 417, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 41, 
+        "JUMLAH PEMILIH BERDAFTAR": 26477, 
+        "MAJORITI": 12764, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 75.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.214 - SELANGAU", 
+        "CALON": [
+            {
+                "NAMA": "JOSEPH ENTULU ANAK BELAUN", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12040
+            }, 
+            {
+                "NAMA": "SNG CHEE HUA", 
+                "PARTI": "SWP", 
+                "UNDI DITERIMA": 4485
+            }, 
+            {
+                "NAMA": "JOSHUA ANAK JABING @ JOSHUA JABENG ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 3891
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 20725, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 20753, 
+        "JUMLAH KERTAS UNDI DITOLAK": 309, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 28, 
+        "JUMLAH PEMILIH BERDAFTAR": 25461, 
+        "MAJORITI": 7555, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 81.5
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.215 - KAPIT", 
+        "CALON": [
+            {
+                "NAMA": "ALEXANDER NANTA LINGGI", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13446
+            }, 
+            {
+                "NAMA": "RAMLI ANAK MALAKA ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 3715
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 17432, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 17474, 
+        "JUMLAH KERTAS UNDI DITOLAK": 271, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 42, 
+        "JUMLAH PEMILIH BERDAFTAR": 26195, 
+        "MAJORITI": 9731, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 66.7
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.216 - HULU RAJANG", 
+        "CALON": [
+            {
+                "NAMA": "GEORGE ANAK LAGONG", 
+                "PARTI": "SWP", 
+                "UNDI DITERIMA": 2129
+            }, 
+            {
+                "NAMA": "ABUN SUI ANYIT ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 3283
+            }, 
+            {
+                "NAMA": "UGAK ANAK KUMBONG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 9117
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 14742, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 14763, 
+        "JUMLAH KERTAS UNDI DITOLAK": 213, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 21, 
+        "JUMLAH PEMILIH BERDAFTAR": 21686, 
+        "MAJORITI": 5834, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 68.1
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.217 - BINTULU", 
+        "CALON": [
+            {
+                "NAMA": "TIONG KING SING", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 26458
+            }, 
+            {
+                "NAMA": "JOHN BRIAN ANTHONY ANAK JEREMY GUANG ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 19025
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 45941, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 45968, 
+        "JUMLAH KERTAS UNDI DITOLAK": 458, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 27, 
+        "JUMLAH PEMILIH BERDAFTAR": 59893, 
+        "MAJORITI": 7433, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 76.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.218 - SIBUTI", 
+        "CALON": [
+            {
+                "NAMA": "MUHAMMAD ZAID BIN TANDANG ", 
+                "PARTI": "PAS", 
+                "UNDI DITERIMA": 7282
+            }, 
+            {
+                "NAMA": "AHMAD LAI BIN BUJANG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 13348
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 20918, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 20947, 
+        "JUMLAH KERTAS UNDI DITOLAK": 288, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 29, 
+        "JUMLAH PEMILIH BERDAFTAR": 28351, 
+        "MAJORITI": 6066, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 73.9
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.219 - MIRI", 
+        "CALON": [
+            {
+                "NAMA": "MICHAEL TEO YU KENG", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 26909
+            }, 
+            {
+                "NAMA": "SEBASTIAN TING CHIEW YEW ", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 24917
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "CHONG KON FATT ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 306
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 52762, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 52813, 
+        "JUMLAH KERTAS UNDI DITOLAK": 630, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 51, 
+        "JUMLAH PEMILIH BERDAFTAR": 71170, 
+        "MAJORITI": 1992, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 74.2
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.220 - BARAM", 
+        "CALON": [
+            {
+                "NAMA": "ANYI NGAU", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 9182
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "PATRICK SIBAT SUJANG ", 
+                "PARTI": "BEBAS", 
+                "UNDI DITERIMA": 363
+            }, 
+            {
+                "NAMA": "ROLAND ENGAN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 8988
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 18775, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 18796, 
+        "JUMLAH KERTAS UNDI DITOLAK": 242, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 21, 
+        "JUMLAH PEMILIH BERDAFTAR": 29385, 
+        "MAJORITI": 194, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 64.0
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.221 - LIMBANG", 
+        "CALON": [
+            {
+                "NAMA": "BARU BIAN ", 
+                "PARTI": "PKR", 
+                "UNDI DITERIMA": 4698
+            }, 
+            {
+                "NAMA": "HASBI BIN HABIBOLLAH", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 12999
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 17859, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 17912, 
+        "JUMLAH KERTAS UNDI DITOLAK": 162, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 53, 
+        "JUMLAH PEMILIH BERDAFTAR": 24278, 
+        "MAJORITI": 8301, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 73.8
+    }, 
+    {
+        "BAHAGIAN PILIHAN RAYA": "P.222 - LAWAS", 
+        "CALON": [
+            {
+                "NAMA": "HENRY SUM AGONG", 
+                "PARTI": "BN", 
+                "UNDI DITERIMA": 9928
+            }, 
+            {
+                "NAMA": "BARU LANGUB ", 
+                "PARTI": "DAP", 
+                "UNDI DITERIMA": 3898
+            }, 
+            {
+                "HILANG DEPOSIT": true, 
+                "NAMA": "ALIRAHMAN BIN KAMSEH ", 
+                "PARTI": "STAR", 
+                "UNDI DITERIMA": 69
+            }
+        ], 
+        "JUMLAH KERTAS UNDI DALAM PETI UNDI": 14072, 
+        "JUMLAH KERTAS UNDI DIKELUARKAN": 14113, 
+        "JUMLAH KERTAS UNDI DITOLAK": 177, 
+        "JUMLAH KERTAS UNDI TIDAK DIKEMBALIKAN": 41, 
+        "JUMLAH PEMILIH BERDAFTAR": 18845, 
+        "MAJORITI": 6030, 
+        "NEGERI": "SARAWAK", 
+        "PERATUS PENGUNDIAN": 74.9
+    }
+]
